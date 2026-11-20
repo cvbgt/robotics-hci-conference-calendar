@@ -1,0 +1,42 @@
+{
+  "acronym": "SIGGRAPH ASIA",
+  "fullname": "ACM SIG International Conference on Computer Graphics and Interactive Techniques Asia",
+  "kiise": "최우수",
+  "bk21": null,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "ACM SIG International Conference on Computer Graphics and Interactive Techniques Asia",
+      "row": "2024-S-054",
+      "page": 3
+    }
+  ],
+  "category": "국제-그래픽스",
+  "start": "2026-12-01",
+  "end": "2026-12-04",
+  "dates": "2026.12.01 – 2026.12.04",
+  "location": "미정",
+  "registration": "미공개",
+  "website": "https://asia.siggraph.org/",
+  "notes": "공식 목록 등재 확인. 등록·제출 마감은 미확인.",
+  "tags": [
+    "그래픽스"
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": null,
+  "sources": [
+    "https://asia.siggraph.org/"
+  ],
+  "future": [],
+  "keynotes": [],
+  "program": [],
+  "paperProcess": []
+}

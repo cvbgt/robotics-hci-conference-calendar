@@ -1,0 +1,57 @@
+{
+  "acronym": "CSCW",
+  "fullname": "ACM Conference on Computer-Supported Cooperative Work and Social Computing (2027, 30th)",
+  "kiise": "우수",
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "ACM Conference on Computer-Supported Cooperative Work and Social Computing"
+    },
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "ACM Conference on Computer-Supported Cooperative Work and Social Computing"
+    }
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": "A",
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=CSCW&by=acronym&source=ICORE2026"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": "2027-10-16",
+  "end": "2027-10-20",
+  "dates": "2027.10.16 – 10.20",
+  "location": "Philadelphia, PA, USA",
+  "registration": "등록 마감 미공개",
+  "regDeadline": null,
+  "abstractDeadline": null,
+  "paperDeadline": null,
+  "website": "https://cscw.acm.org/2027/",
+  "notes": "사람·그룹·협업 기술의 설계와 사용을 다룬다. 협업 인터페이스·인간 중심 시스템 연구의 발표 경로. 공식 안내가 상시 접수를 명시하므로 과거 저널 투고 주기나 PACM HCI의 h5를 옮기지 않는다.",
+  "keynotes": [],
+  "keynotesNote": "차기 개최판 연사 미확인",
+  "program": [],
+  "paperProcess": [
+    "PACM HCI–CSCW 논문 상시 접수 · 프로그램 편성 전에 채택된 논문은 2027 발표 초대",
+    "고정 제출·최종본·등록 마감 미공개"
+  ],
+  "sources": [
+    "https://cscw.acm.org/2027/"
+  ],
+  "tags": [
+    "HCI",
+    "협업",
+    "국제"
+  ]
+}

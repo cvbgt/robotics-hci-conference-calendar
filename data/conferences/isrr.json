@@ -1,0 +1,41 @@
+{
+  "acronym": "ISRR",
+  "fullname": "Int. Symposium on Robotics Research (2026)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": "C",
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=ISRR&by=acronym&source=ICORE2026"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2026-11-16",
+  "end": "2026-11-20",
+  "dates": "2026.11.16 – 11.20",
+  "location": "Malacca, Malaysia (Casa del Rio Melaka)",
+  "registration": "얼리버드 등록 2026.09.15 (GMT+8) 마감 · 일반 등록 진행",
+  "regDeadline": "2026-09-15",
+  "website": "https://isrr2026.su.domains/",
+  "notes": "IFRR(국제로봇연구재단) 주관 소수정예 권위 로봇 연구 심포지엄(격년).",
+  "paperProcess": [
+    "Papercept에 Springer 형식 PDF 제출 (참고문헌 포함 최대 16쪽, 선택 영상 1개) · 싱글블라인드 심사",
+    "논문 마감 2026-05-31 (연장) · 채택 통보 2026-08-01",
+    "수정본 마감 2026-09-15 · 출판용 최종본은 학회 후 제출 (일정 미공개)"
+  ],
+  "sources": [
+    "https://isrr2026.su.domains/",
+    "https://isrr2026.su.domains/registration/",
+    "https://isrr2026.su.domains/paper-submission/",
+    "https://isrr2026.su.domains/program/"
+  ],
+  "tags": [
+    "로봇",
+    "국제",
+    "톱티어"
+  ]
+}

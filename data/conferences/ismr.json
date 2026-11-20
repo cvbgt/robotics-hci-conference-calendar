@@ -1,0 +1,47 @@
+{
+  "acronym": "ISMR",
+  "fullname": "Int. Symposium on Medical Robotics (2027)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 16,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Medical%20Robotics"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-04-27",
+  "end": "2027-04-29",
+  "dates": "2027.04.27 – 04.29",
+  "location": "Nashville, TN, USA (Vanderbilt University)",
+  "registration": "저자 등록·얼리버드 등록 2027.03.15 마감",
+  "regDeadline": "2027-03-15",
+  "website": "https://ismr.gatech.edu/2027/2027-welcome",
+  "notes": "의료·재활 로봇 단일 트랙 심포지엄 — 햅틱·소프트 로봇·인공지능을 의료 로봇 주제로 다룸.",
+  "keynotes": [],
+  "keynotesNote": "초청 연사 미발표",
+  "program": [
+    "04.27 워크숍·튜토리얼 · 04.28–29 단일 트랙 구두·포스터 발표",
+    "04.26 Spring School on Medical Robotics (SSMR, 격년) — 세부 일정 추후 공지"
+  ],
+  "paperProcess": [
+    "제출 경로 2가지: JMRR 저널(본문 8쪽) 또는 Papercept(IEEE Xplore, 6쪽+참고문헌)",
+    "논문 마감 2026-11-10 (firm)",
+    "채택 통보 2026-12-25",
+    "최종본 2027-02-01 · 최종 프로그램 공개 2027-03-01",
+    "저자 등록(최소 1명)·얼리버드 2027-03-15"
+  ],
+  "sources": [
+    "https://ismr.gatech.edu/2027/2027-welcome",
+    "https://ismr.gatech.edu/sites/default/files/pdfs/2027%20ISMR%20and%20SSMR%20CfP.pdf"
+  ],
+  "tags": [
+    "로봇",
+    "의료로봇",
+    "국제"
+  ]
+}

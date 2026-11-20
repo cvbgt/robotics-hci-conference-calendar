@@ -1,0 +1,99 @@
+{
+  "acronym": "ICRA",
+  "fullname": "IEEE Int. Conf. on Robotics and Automation (2027)",
+  "csrankings": true,
+  "scholarTop20": "Robotics",
+  "kiise": "우수",
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "IEEE International Conference on Robotics and Automation"
+    },
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "IEEE International Conference on Robotics and Automation"
+    }
+  ],
+  "core": "A*",
+  "h5": 129,
+  "acceptRate": null,
+  "repSources": [
+    "https://csrankings.org/",
+    "https://portal.core.edu.au/conf-ranks/?search=ICRA&by=acronym&source=ICORE2026",
+    "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-05-24",
+  "end": "2027-05-28",
+  "dates": "2027.05.24 – 05.28",
+  "location": "Seoul, Korea (COEX)",
+  "registration": "등록 2027년 2월 초 오픈 예정 · 얼리버드 2027.03.31",
+  "regDeadline": "2027-03-31",
+  "website": "https://2027.ieee-icra.org/",
+  "notes": "주제 'Forging an Ecosystem of Innovation: Building a Collaborative Robotics Community'. 로봇공학 플래그십.",
+  "keynotes": [],
+  "keynotesNote": "2027 연사 미발표",
+  "program": [
+    "Plenary·논문 발표·워크숍·튜토리얼·포럼·전시·로봇 경진대회",
+    "세부 프로그램 미발표"
+  ],
+  "paperProcess": [
+    "PaperPlaza에서 8쪽 PDF 제출 · 이중 익명 심사",
+    "논문 마감 2026-09-16 (23:59 PST, 연장 후 종료)",
+    "보충 영상 제출 2026-08-05~09-09 및 09-18~09-22",
+    "채택 통보 2027-01-31 · 최종본 제출 오픈 2027-02-06",
+    "저자 등록 2027-03-05 · 얼리버드 2027-03-31 · 일반 등록 2027-05-14",
+    "워크숍·튜토리얼 본제안 마감(연장) 2026-11-02 (PaperPlaza) · 채택 통보 2027-01-31",
+    "저널 논문 발표 전환 마감 2026-12-31",
+    "Satellite Conference Center 신청 마감 2026-11-10 (PT) · 결과 통보 2026-11-15",
+    "Community Building Day 신청 마감 2026-11-30 (23:59 PST) · 통보 2027-01-31 · 행사 2027-05-26",
+    "Arts in Robotics 초록 OpenReview 제출 마감 2026-12-01 (23:59 PST) · 통보 2027-01-31 · 최종 자료 제출 2027-04-05"
+  ],
+  "sources": [
+    "https://2027.ieee-icra.org/",
+    "https://2027.ieee-icra.org/contribute/call-for-icra-2027-papers-now-accepting-submissions/",
+    "https://2027.ieee-icra.org/contribute/call-for-workshop-and-tutorial/",
+    "https://2027.ieee-icra.org/announcements/call-for-community-building-day/",
+    "https://2027.ieee-icra.org/announcements/call-for-satellite-conference-centers/",
+    "https://2027.ieee-icra.org/contribute/call-for-art-in-robotics/",
+    "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+    "https://www.ieee-ras.org/event/2028-ieee-international-conference-on-robotics-and-automation-icra-74101/"
+  ],
+  "future": [
+    {
+      "year": 2028,
+      "location": "Rio de Janeiro, Brazil (Riocentro)",
+      "dates": "2028.05.15 – 05.19",
+      "confidence": "confirmed",
+      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/"
+    },
+    {
+      "year": 2029,
+      "location": "Milan, Italy",
+      "dates": "2029.05.07 – 05.12",
+      "confidence": "confirmed",
+      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/"
+    },
+    {
+      "year": 2030,
+      "location": "Bangkok, Thailand",
+      "dates": "2030.05.13 – 05.17",
+      "confidence": "confirmed",
+      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/"
+    }
+  ],
+  "tags": [
+    "로봇",
+    "국제",
+    "IEEE",
+    "플래그십"
+  ]
+}

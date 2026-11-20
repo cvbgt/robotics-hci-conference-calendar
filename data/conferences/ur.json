@@ -1,0 +1,59 @@
+{
+  "acronym": "UR",
+  "fullname": "Int. Conf. on Ubiquitous Robots (2026, 23rd)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 16,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Ubiquitous%20Robots"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2026-07-15",
+  "end": "2026-07-18",
+  "dates": "2026.07.15 – 07.18",
+  "location": "Ibaraki, Osaka, Japan (Ritsumeikan University, Osaka Ibaraki Campus)",
+  "registration": "얼리버드 등록 마감 2026.05.29 · 최종본 05.18",
+  "regDeadline": "2026-05-29",
+  "website": "https://2026.ubiquitousrobots.org/",
+  "notes": "한국로봇학회(KROS) 주관 국제학회.",
+  "keynotes": [
+    {
+      "name": "Kento Kawaharazuka",
+      "affiliation": "University of Tokyo",
+      "topic": "근골격·와이어 구동·오픈소스 로봇의 체화 지능"
+    },
+    {
+      "name": "Sungjoon Choi",
+      "affiliation": "Korea University",
+      "topic": "인간 중심 로봇 연구"
+    },
+    {
+      "name": "Jung Yun Bae",
+      "affiliation": "Michigan Technological University",
+      "topic": "회복력 있는 인간 생태계를 위한 다중 로봇 배치"
+    },
+    {
+      "name": "Diego Paez-Granados",
+      "affiliation": "ETH Zürich",
+      "topic": "장기 인간-로봇 상호작용의 지속적 상호 적응"
+    }
+  ],
+  "keynotesNote": "키노트 4명. Plenary 연사는 별도 공식 페이지 참조.",
+  "sources": [
+    "https://2026.ubiquitousrobots.org/",
+    "https://2026.ubiquitousrobots.org/keynote-speakers/",
+    "https://2026.ubiquitousrobots.org/plenary-speakers/",
+    "https://kros.org/"
+  ],
+  "tags": [
+    "로봇",
+    "국제",
+    "KROS"
+  ]
+}

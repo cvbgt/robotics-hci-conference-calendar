@@ -1,0 +1,48 @@
+{
+  "acronym": "IEEE SENSORS",
+  "fullname": "IEEE SENSORS Conference (2027, 26th)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 21,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=IEEE%20SENSORS"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-센서·소자",
+  "start": "2027-10-24",
+  "end": "2027-10-27",
+  "dates": "2027.10.24 – 10.27",
+  "location": "Sydney, Australia (Sydney International Convention Centre)",
+  "registration": "등록 미공개 · 논문 마감 2027.06.18 (Option A)",
+  "website": "https://ieee-sensorsconference.org/2027",
+  "notes": "센싱 기술 최대 학회. 촉각·유연 센서 소자. 직전 회차 2026.10.25–28 Rotterdam 종료.",
+  "keynotes": [],
+  "keynotesNote": "2027 연사 미발표",
+  "program": [
+    "키노트·초청 발표, Focused Sessions, 워크숍·튜토리얼 (세부 프로그램 미발표)"
+  ],
+  "paperProcess": [
+    "공식 일정에 시간대 미표기",
+    "Focused Session 제안 마감 2027-03-31 · 통보 2027-04-14",
+    "Option B(IEEE Sensors Letters) 논문 마감 2027-04-26",
+    "워크숍·튜토리얼 제안 마감 2027-05-07 · 통보 2027-05-31",
+    "Option A(Proceedings) 논문 마감 2027-06-18",
+    "채택 통보 2027-08-09",
+    "최종본 마감 2027-08-30"
+  ],
+  "sources": [
+    "https://ieee-sensorsconference.org/2027",
+    "https://ieee-sensorsconference.org/2027/authors/call-for-papers",
+    "https://ieee-sensors.org/conferences/"
+  ],
+  "tags": [
+    "센서",
+    "국제",
+    "IEEE"
+  ]
+}

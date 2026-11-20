@@ -1,0 +1,45 @@
+{
+  "acronym": "EuroEAP",
+  "fullname": "Int. Conf. on Soft Transducers and Electromechanically Active Polymers (2027, 15th)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국제-센서·소자",
+  "start": "2027-06-08",
+  "end": "2027-06-10",
+  "dates": "2027.06.08 – 06.10",
+  "location": "Bari, Italy (세부 행사장 미정)",
+  "registration": "등록 오픈 예정 · 포스터·Society Challenge 마감 2027.05.20",
+  "website": "https://robophysics.poliba.it/euroeap2027/",
+  "notes": "EuroEAP Society와 Politecnico di Bari 공동 주관. EAP·유전 탄성체·인공근육 등 소프트 트랜스듀서의 구동·감지·에너지 수확 연구에 연관. 날짜·도시는 발표됐으며 세부 행사장은 미정.",
+  "keynotes": [],
+  "keynotesNote": "2027 초청 연사 미발표",
+  "program": [
+    "초청 강연·포스터·Society Challenge 시연",
+    "Society Challenge는 둘째 날 진행 예정 · 세부 시간표 미발표"
+  ],
+  "paperProcess": [
+    "포스터 제출 마감 2027-05-20",
+    "Society Challenge 제안 마감 2027-05-20",
+    "등록·기여 접수 오픈 준비 중 · 심사 결과·최종 자료·등록 마감 미공개"
+  ],
+  "sources": [
+    "https://robophysics.poliba.it/euroeap2027/",
+    "https://www.euroeap.eu/"
+  ],
+  "tags": [
+    "소프트로봇",
+    "EAP",
+    "액추에이터",
+    "센서",
+    "국제",
+    "확인필요"
+  ]
+}

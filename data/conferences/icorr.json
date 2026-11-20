@@ -1,0 +1,40 @@
+{
+  "acronym": "ICORR",
+  "fullname": "IEEE Int. Conf. on Rehabilitation Robotics (2027, 20th · RehabWeek)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 10,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Rehabilitation%20Robotics"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-05-31",
+  "end": "2027-06-04",
+  "dates": "2027.05.31 – 06.04",
+  "location": "Lausanne, Switzerland (RehabWeek 2027)",
+  "registration": "논문 마감 2026.11.17 · 얼리버드 등록 2027.04.04",
+  "regDeadline": "2027-04-04",
+  "website": "https://icorr-c.org/icorr_2027/",
+  "notes": "재활·의료/웨어러블 로봇 대표 학회. RehabWeek 2027 구성 학회 — Lausanne 개최 공식 발표.",
+  "paperProcess": [
+    "PaperPlaza(Papercept)로 IEEE 형식 full paper 제출: 기본 6쪽, 최대 8쪽 (초과 쪽당 USD 150)",
+    "논문 접수 개시 2026-09-18 · 논문 마감 2026-11-17",
+    "채택/거절 통보 2027-01-20 · 최종본 제출 2027-02-09",
+    "얼리버드 등록 마감 2027-04-04"
+  ],
+  "sources": [
+    "https://icorr-c.org/icorr_2027/",
+    "https://resc.ethz.ch/outreach/events/upcoming-events/rehabweek-2027.html"
+  ],
+  "tags": [
+    "의료로봇",
+    "재활",
+    "국제"
+  ]
+}

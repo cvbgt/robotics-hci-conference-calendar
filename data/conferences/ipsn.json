@@ -1,0 +1,53 @@
+{
+  "acronym": "IPSN",
+  "fullname": "ACM/IEEE Information Processing in Sensor Networks",
+  "kiise": "우수",
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "ACM/IEEE Information Processing in Sensor Networks",
+      "row": "2024-A-085",
+      "page": 9
+    },
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "ACM/IEEE Information Processing in Sensor Networks",
+      "row": "BKCSA052",
+      "page": 3
+    }
+  ],
+  "category": "국제-센서·소자",
+  "start": null,
+  "end": null,
+  "dates": "미정",
+  "location": "미정",
+  "registration": "미공개",
+  "website": "https://ipsn.acm.org/",
+  "notes": "공식 목록 등재 확인. 등록·제출 마감은 미확인. 차기 개최 일정 미확인.",
+  "tags": [
+    "센서",
+    "시스템·네트워크",
+    "확인필요"
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": null,
+  "sources": [
+    "https://ipsn.acm.org/"
+  ],
+  "future": [],
+  "keynotes": [],
+  "program": [],
+  "paperProcess": []
+}

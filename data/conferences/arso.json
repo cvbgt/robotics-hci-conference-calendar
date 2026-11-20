@@ -1,0 +1,64 @@
+{
+  "acronym": "ARSO",
+  "fullname": "IEEE Int. Conf. on Advanced Robotics and its Social Impacts (2027, 23rd)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 8,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Advanced%20Robotics%20Social%20Impacts"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-03-13",
+  "end": "2027-03-15",
+  "dates": "2027.03.13 – 03.15",
+  "location": "Mountain View · Stanford, CA, USA (Hyatt Centric Mountain View / Stanford University)",
+  "registration": "저자 등록 2027.02.05 · 얼리버드 등록 2027.02.12 마감",
+  "regDeadline": "2027-02-12",
+  "website": "https://2027.ieee-arso.org/",
+  "notes": "로봇의 사회적 영향·인간 중심 로봇 단일 트랙 학회 — HRI 2027(03.08–12, Santa Clara) 직후 같은 지역 개최.",
+  "keynotes": [
+    {
+      "name": "Oussama Khatib",
+      "affiliation": "Stanford University (Stanford Robotics Center)",
+      "topic": ""
+    },
+    {
+      "name": "Steve Cousins",
+      "affiliation": "Stanford Robotics Center (Executive Director)",
+      "topic": ""
+    },
+    {
+      "name": "Allison Okamura",
+      "affiliation": "Stanford University",
+      "topic": ""
+    }
+  ],
+  "keynotesNote": "03.15 Stanford 키노트 3명 공개 · 03.13–14 키노트 연사·주제 미공개",
+  "program": [
+    "03.13–14 Hyatt Centric Mountain View: 논문 세션·키노트·산업 패널",
+    "03.15 Stanford: 키노트·시상·고령자 대상 인간 중심 로봇 패널·데모·Stanford Robotics Center 투어"
+  ],
+  "paperProcess": [
+    "PaperPlaza 제출 · 이중 익명 심사 · 일반 논문 4–6쪽(IEEE Xplore) / 포지션 페이퍼 2–4쪽",
+    "논문·조직 세션 제안 마감 2026-12-01",
+    "채택 통보 2027-01-31",
+    "저자 등록 2027-02-05 · 최종본 2027-02-15 (최대 8쪽, 추가 요금)"
+  ],
+  "sources": [
+    "https://2027.ieee-arso.org/",
+    "https://2027.ieee-arso.org/contribute/",
+    "https://2027.ieee-arso.org/program/",
+    "https://www.ieee-ras.org/event/2027-ieee-international-conference-on-advanced-robotics-and-its-social-impacts-arso-73046/"
+  ],
+  "tags": [
+    "로봇",
+    "HRI",
+    "국제"
+  ]
+}

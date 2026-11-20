@@ -1,0 +1,40 @@
+{
+  "acronym": "ICCAS",
+  "fullname": "Int. Conf. on Control, Automation and Systems (2027, 27th · ICROS)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 17,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=ICCAS"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-11-02",
+  "end": "2027-11-05",
+  "dates": "2027.11.02 – 11.05",
+  "location": "Jeju, Korea (Sheraton Jeju Hotel)",
+  "registration": "등록·논문 마감 미공개",
+  "website": "https://icros.org/eng/sub/sub04_1.asp",
+  "notes": "제어로봇시스템학회(ICROS) 주관. 한국 연구자 참여 활발. General Co-Chair: Jinwhan Kim (KAIST). 직전 회차 2026.10.27–30 Sapporo 종료. 2027 공식 사이트는 준비 중.",
+  "keynotes": [],
+  "keynotesNote": "2027 연사 미발표",
+  "program": [
+    "세부 프로그램 미발표"
+  ],
+  "paperProcess": [
+    "논문 제출·심사·최종본 일정 미공개"
+  ],
+  "sources": [
+    "https://icros.org/eng/sub/sub04_1.asp"
+  ],
+  "tags": [
+    "제어",
+    "국제",
+    "ICROS"
+  ]
+}

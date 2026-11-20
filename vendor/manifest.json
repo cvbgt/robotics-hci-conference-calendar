@@ -1,0 +1,217 @@
+{
+  "schema": "confcal-surface-vendor/v1",
+  "note": "이 레포 표면이 담는 고정 바이트. 정본 카탈로그는 dashboard-lab ui-assets(metadata-pin)이고, 여기 바이트는 그 admitted 레코드가 가리키는 핀에서 그대로 복사된 것이다. sha256 은 dashboard-lab vendor/manifest.json 과 동일해야 한다.",
+  "pin_authority": "dashboard-lab vendor/manifest.json",
+  "blueprint": "static-derived-doc",
+  "verified_at": "2026-08-17",
+  "assets": [
+    {
+      "asset_id": "pico-css",
+      "record": "ui-assets/records/pico-css.md",
+      "version": "2.1.1",
+      "package": "@picocss/pico",
+      "acquisition_command": "npm pack @picocss/pico@2.1.1 --ignore-scripts",
+      "tarball": "picocss-pico-2.1.1.tgz",
+      "tarball_integrity": "sha512-kIDugA7Ps4U+2BHxiNHmvgPIQDWPDU4IeU6TNRdvXQM1uZX+FibqDQT2xUOnnO2yq/LUHcwnGlu1hvf4KfXnMg==",
+      "license": "MIT",
+      "files": [
+        {
+          "path": "vendor/pico-css/2.1.1/pico.min.css",
+          "sha256": "fbc9a63fc9fc9f72d12fd7fc9806e11fa9f77ae4f9cad146b27003a1119ba3db",
+          "bytes": 83319,
+          "use": "inlined-into-catalog-html"
+        },
+        {
+          "path": "vendor/pico-css/2.1.1/LICENSE.md",
+          "sha256": "afaff063e044233f917b7807dccab022f09dca474f92b642846bee4850655bbf",
+          "bytes": 1066,
+          "use": "notice"
+        }
+      ]
+    },
+    {
+      "asset_id": "open-color",
+      "record": "ui-assets/records/open-color.md",
+      "version": "1.9.1",
+      "package": "open-color",
+      "acquisition_command": "npm pack open-color@1.9.1 --ignore-scripts",
+      "tarball": "open-color-1.9.1.tgz",
+      "tarball_integrity": "sha512-vCseG/EQ6/RcvxhUcGJiHViOgrtz4x0XbZepXvKik66TMGkvbmjeJrKFyBEx6daG5rNyyd14zYXhz0hZVwQFOw==",
+      "license": "MIT",
+      "files": [
+        {
+          "path": "vendor/open-color/1.9.1/open-color.css",
+          "sha256": "7ea49aec2547e5b7ae21ec7600c1eebb2bd196354e328d771b041eeeeac987e1",
+          "bytes": 9663,
+          "use": "token-source-for-catalog-html"
+        },
+        {
+          "path": "vendor/open-color/1.9.1/LICENSE",
+          "sha256": "62f1f7f590dd772b61fe8e07eff8c52de11d545f3ba079bc25b38a82a6ea4bae",
+          "bytes": 1064,
+          "use": "notice"
+        }
+      ]
+    },
+    {
+      "asset_id": "minisearch",
+      "record": "ui-assets/records/minisearch.md",
+      "version": "7.2.0",
+      "package": "minisearch",
+      "acquisition_command": "npm pack minisearch@7.2.0 --ignore-scripts",
+      "tarball": "minisearch-7.2.0.tgz",
+      "tarball_integrity": "sha512-dqT2XBYUOZOiC5t2HRnwADjhNS2cecp9u+TJRiJ1Qp/f5qjkeT5APcGPjHw+bz89Ms8Jp+cG4AlE+QZ/QnDglg==",
+      "license": "MIT",
+      "files": [
+        {
+          "path": "vendor/minisearch/7.2.0/index.js",
+          "sha256": "0393b3ba253b809d5e55707c7b0875ef9b518a296a006c6739b28876e154edb3",
+          "bytes": 78014,
+          "use": "inlined-into-catalog-html"
+        },
+        {
+          "path": "vendor/minisearch/7.2.0/LICENSE.txt",
+          "sha256": "70d37354d6395629fb99edb28cb37a5d356ffa24a48cd02a5def5b83a300a899",
+          "bytes": 1051,
+          "use": "notice"
+        }
+      ]
+    },
+    {
+      "asset_id": "chart-js",
+      "record": "ui-assets/records/chart-js.md",
+      "version": "4.5.1",
+      "package": "chart.js",
+      "acquisition_command": "npm pack chart.js@4.5.1 --ignore-scripts",
+      "tarball": "chart.js-4.5.1.tgz",
+      "tarball_integrity": "sha512-GIjfiT9dbmHRiYi6Nl2yFCq7kkwdkp1W/lp2J99rX0yo9tgJGn3lKQATztIjb5tVtevcBtIdICNWqlq5+E8/Pw==",
+      "license": "MIT",
+      "files": [
+        {
+          "path": "vendor/chart-js/4.5.1/chart.umd.js",
+          "sha256": "ecc3cd1eeb8c34d2178e3f59fd63ec5a3d84358c11730af0b9958dc886d7652a",
+          "bytes": 208518,
+          "use": "inlined-into-catalog-html"
+        },
+        {
+          "path": "vendor/chart-js/4.5.1/LICENSE.md",
+          "sha256": "41a84aa2caba645f966a18d9c2056b73e6d3a81d80bc0046bc0011a2634d4cce",
+          "bytes": 1093,
+          "use": "notice"
+        }
+      ]
+    },
+    {
+      "asset_id": "pretendard",
+      "record": "ui-assets/records/pretendard.md",
+      "layer": "typeface",
+      "kind": "vcs",
+      "version": "1.3.9",
+      "repository": "https://github.com/orioncactus/pretendard",
+      "commit": "7aeb0698819be2b4097dae8ec8fe6a795e5cf3ae",
+      "acquisition_command": "리비전 고정 raw URL (GitHub 은 git archive --remote 를 막았다)",
+      "license": "OFL-1.1",
+      "note": "레코드 constraint 4·8: evergreen 브라우저는 woff2 만 필요하고, 핀 경로 52MB 중 표면이 실제로 쓰는 것만 고른다. 가변 폰트 하나가 45~920 전 웨이트를 덮으므로 static 여러 벌보다 작다. constraint 2: 업스트림 사전빌드 파일을 그대로 서빙하는 것은 Modified Version 이 아니다(글리프를 고치면 이름을 못 쓴다). notice clause 2: 핀 경로에 LICENSE 가 없어 레포 루트 LICENSE 를 함께 나른다.",
+      "files": [
+        {
+          "path": "vendor/pretendard/1.3.9/PretendardVariable.woff2",
+          "sha256": "9599f12fd42fc0bce1cd50b47a0c022e108d7aa64dd0d1bb0ed44f3282d900b4",
+          "bytes": 2057688,
+          "use": "served-font"
+        },
+        {
+          "path": "vendor/pretendard/1.3.9/LICENSE",
+          "sha256": "82e9c8a4b203261f10ddba1296422d64914ff3d4b7bd8a12896d03f0f088d70a",
+          "bytes": 4816,
+          "use": "notice"
+        }
+      ]
+    },
+    {
+      "asset_id": "lucide-static",
+      "record": "ui-assets/records/lucide-static.md",
+      "layer": "icon",
+      "kind": "registry",
+      "version": "1.31.0",
+      "package": "lucide-static",
+      "acquisition_command": "npm pack lucide-static@1.31.0 --ignore-scripts",
+      "tarball_integrity": "sha512-XFX9NO+gcLsOkXISmeQZYGJa2siGWZc/lgT/BK1b83h9RdOiz3cj1eQP5nWhELiB1KhW5ryk0nmMopOgm/CuSA==",
+      "license": "ISC AND MIT",
+      "note": "레코드 constraint: 개별 icons/*.svg 만 고른다 — sprite.svg 와 font/ 는 페이지가 쓰는 개수와 무관하게 전체 세트(2025개)를 싣는다. 모든 아이콘이 stroke=\"currentColor\" 라 색은 CSS 가 준다.",
+      "files": [
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/alarm-clock.svg",
+          "sha256": "3d35e286a36ffd6d563cec50002dcc2f6bda4794d246fdae07a490ffc70cab2f",
+          "bytes": 466,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/calendar-days.svg",
+          "sha256": "fa849bd235329e3a014ae8fda8c58ac50b9a9361701b8ffc25d1606b3e084bcf",
+          "bytes": 567,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/calendar.svg",
+          "sha256": "827e462e523ef7d81f58a2db7b816c4d3b7ed332f2e3a632715de5b72971b0ac",
+          "bytes": 408,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/external-link.svg",
+          "sha256": "f2f3ad9cbe2abb822292ac1ba44436260db2c13d95573d829449ff7282a3f67d",
+          "bytes": 416,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/file-text.svg",
+          "sha256": "adfe1f1106b1fe6888ec4ddeb4349668c126496ee828b9aa15fd82c5a3beb679",
+          "bytes": 524,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/info.svg",
+          "sha256": "729ce712e693bea7de5fb043a0d4a6d98fcaf4d94d950b69af43e11705fa0f79",
+          "bytes": 369,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/map-pin.svg",
+          "sha256": "6d45ed87075d5bfa0c7615e8a741f283e0878d4306e68e82c2e236192aad4a5f",
+          "bytes": 437,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/map.svg",
+          "sha256": "2a8b7bdb7b1ded73b9d625122426434350e12f7b7be40c507df464d09afd08a1",
+          "bytes": 590,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/mic.svg",
+          "sha256": "a9e9d1f5f99465c2b61dd5312d57880d6eae0920cab82c75d6f6f52f067fedf7",
+          "bytes": 400,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/pin.svg",
+          "sha256": "19b073f150d62659c7911a76e1a714221d2d7cdcad61ffab5c0ca02bf682b598",
+          "bytes": 524,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/icons/x.svg",
+          "sha256": "0177910ef40637b4f9dacfc38b1987d82a3f4c1752adb2e1689416ed96fc42ca",
+          "bytes": 332,
+          "use": "inlined-into-markup"
+        },
+        {
+          "path": "vendor/lucide-static/1.31.0/LICENSE",
+          "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+          "bytes": 3208,
+          "use": "notice"
+        }
+      ]
+    }
+  ]
+}

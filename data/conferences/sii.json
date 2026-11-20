@@ -1,0 +1,64 @@
+{
+  "acronym": "SII",
+  "fullname": "IEEE/SICE Int. Symposium on System Integration (2027, 19th)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 19,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=System%20Integration"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-01-11",
+  "end": "2027-01-14",
+  "dates": "2027.01.11 – 01.14",
+  "location": "Kobe, Japan (Kobe International Conference Center)",
+  "registration": "얼리버드 등록 2026.12.19 (PT) 마감 · 저자 등록은 최종본 마감과 동일(저자에게 개별 공지)",
+  "regDeadline": "2026-12-19",
+  "website": "https://sii2027.sice-si.org/",
+  "notes": "로봇·메카트로닉스 시스템 통합 학회 — 로봇 파운데이션 모델·로봇 학습 키노트 포함.",
+  "keynotes": [
+    {
+      "name": "Yoshihisa Ijiri",
+      "affiliation": "SB Intuitions Corp. (President·CEO)",
+      "topic": "Robot Foundation Models at SB Intuitions"
+    },
+    {
+      "name": "Dongheui Lee",
+      "affiliation": "Technische Universität Wien",
+      "topic": "Beyond Autonomy: Rethinking Robot Learning for Human-Centric Robotics"
+    },
+    {
+      "name": "Robert J. Webster III",
+      "affiliation": "Vanderbilt University",
+      "topic": "Lifesaving Robotic Tentacles: The Journey from Invention to the Operating Room"
+    }
+  ],
+  "keynotesNote": "Plenary 3명 (2027-01-12·13·14 각 1명)",
+  "program": [
+    "일반·특별 세션 논문 발표·워크숍/튜토리얼·Late-breaking results",
+    "분야: System Integration · Cyber Physical Systems · Human and Society · Healthcare and Assistive Technologies"
+  ],
+  "paperProcess": [
+    "논문 마감 2026-09-10 (연장 후 종료)",
+    "채택 통보 2026-10-30",
+    "Late-breaking results 마감 2026-11-05 · 통보 2026-11-10",
+    "최종본 마감은 채택 저자에게 개별 공지 · 저자 등록 마감 = 최종본 마감"
+  ],
+  "sources": [
+    "https://sii2027.sice-si.org/",
+    "https://sii2027.sice-si.org/registration/",
+    "https://sii2027.sice-si.org/plenary-sessions-speakers/",
+    "https://www.ieee-ras.org/event/2027-ieee-sice-international-symposium-on-system-integration-sii-71605/"
+  ],
+  "tags": [
+    "로봇",
+    "메카트로닉스",
+    "국제"
+  ]
+}

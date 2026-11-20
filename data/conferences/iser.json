@@ -1,0 +1,42 @@
+{
+  "acronym": "ISER",
+  "fullname": "Int. Symposium on Experimental Robotics (차기 회차 미정)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 12,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Experimental%20Robotics"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": null,
+  "end": null,
+  "dates": "미정",
+  "location": "미정",
+  "registration": "차기 회차 등록·제출 일정 미공개",
+  "website": "https://iser2025.org/",
+  "notes": "IFRR 주관 실험 로봇 연구 심포지엄. 이론·원리의 실제 실험 검증과 새로운 실험 설계를 강조하므로 시뮬레이션 학습의 실물 검증에 연관. 공식 목록과 최근 사이트는 2025 Santa Fe까지이며 2027 날짜·장소·모집은 미확인. 이전 회차 정보를 이월하지 않음.",
+  "keynotes": [],
+  "keynotesNote": "차기 회차 연사 미발표",
+  "program": [
+    "학회 운영 원칙: 50편 미만의 소규모 단일 트랙 · 실험 영상 권장",
+    "차기 회차 프로그램 미발표"
+  ],
+  "paperProcess": [
+    "차기 회차 초록·논문·최종본·등록 일정 미공개"
+  ],
+  "sources": [
+    "https://iser2025.org/"
+  ],
+  "tags": [
+    "로봇",
+    "학습",
+    "국제",
+    "확인필요"
+  ]
+}

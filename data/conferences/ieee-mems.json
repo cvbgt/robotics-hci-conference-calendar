@@ -1,0 +1,71 @@
+{
+  "acronym": "IEEE MEMS",
+  "fullname": "IEEE Int. Conf. on Micro Electro Mechanical Systems (2027, 40th)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 20,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Micro%20Electro%20Mechanical%20Systems"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-센서·소자",
+  "start": "2027-01-17",
+  "end": "2027-01-21",
+  "dates": "2027.01.17 – 01.21",
+  "location": "Big Island, Hawaii, USA (Hilton Waikoloa Village)",
+  "registration": "얼리버드 등록 마감 2026.11.19 · Open Poster 10.27 / 최종본 11.17",
+  "regDeadline": "2026-11-19",
+  "website": "https://mems27.org/",
+  "notes": "MEMS 최고 권위. 유연/소프트 센서·액추에이터 미세소자.",
+  "keynotes": [
+    {
+      "name": "Stephen Hart",
+      "affiliation": "University College London (UCL), UK",
+      "topic": ""
+    },
+    {
+      "name": "Seong-Hyok Sean Kim",
+      "affiliation": "LG Electronics, Korea",
+      "topic": "스마트폰부터 Physical AI·양자 기술까지 연결하는 MEMS"
+    },
+    {
+      "name": "Dave Monk",
+      "affiliation": "STMicroelectronics, USA",
+      "topic": "MEMS 물리 센서 대량 생산의 경험과 교훈"
+    },
+    {
+      "name": "Hyun Myung",
+      "affiliation": "KAIST, Korea",
+      "topic": "자율 로봇 내비게이션을 위한 공간 AI"
+    },
+    {
+      "name": "Jonas Zmuidzinas",
+      "affiliation": "Caltech, USA",
+      "topic": "운동 인덕턴스 검출기의 발명과 우주 임무 적용"
+    }
+  ],
+  "keynotesNote": "Plenary 연사 5명 공개. Stephen Hart의 발표 주제는 미공개; 나머지 주제는 한국어 요약.",
+  "paperProcess": [
+    "초록 PDF 마감 2026-08-06 (모든 마감 23:59 HST)",
+    "채택 통보 2026-10-13 · 저자 수락 회신 2026-10-15",
+    "최종 논문 마감 2026-11-17",
+    "Open Poster PDF 마감 2026-10-27 · 통보 2026-11-10 · 저자 수락 회신 2026-11-13",
+    "얼리버드 등록 2026-11-19 · Advanced 등록 2026-12-17 · Standard 등록 2027-01-07"
+  ],
+  "sources": [
+    "https://mems27.org/",
+    "https://mems27.org/authors/deadlines.html",
+    "https://mems27.org/attendees/registration.html",
+    "https://mems27.org/program/speakers.html"
+  ],
+  "tags": [
+    "MEMS",
+    "센서",
+    "국제"
+  ]
+}

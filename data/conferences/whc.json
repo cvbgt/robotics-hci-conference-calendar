@@ -1,0 +1,56 @@
+{
+  "acronym": "WHC",
+  "fullname": "IEEE World Haptics Conference (2027)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": "우수",
+  "bk21": null,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "IEEE World Haptics Conference"
+    }
+  ],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": "2027-07-13",
+  "end": "2027-07-16",
+  "dates": "2027.07.13 – 07.16 (주요 일정 잠정)",
+  "location": "Boston, MA, USA",
+  "registration": "등록 마감 미공개 · 논문 초록 2027.01.31 / 본문 02.05 (잠정)",
+  "website": "https://2027.worldhaptics.org/",
+  "notes": "격년(홀수년) 개최. 2026년판 없음 → 차기 2027년. 햅틱 최고 권위.",
+  "keynotes": [],
+  "keynotesNote": "미발표 (공개 예정)",
+  "program": [
+    "Long/Regular Papers, Work-in-Progress, Hands-on Demonstrations, Haptic Design Showcase",
+    "워크숍·튜토리얼 및 Student Innovation Challenge (세부 프로그램 미공개)"
+  ],
+  "paperProcess": [
+    "공식 주요 일정은 잠정(TENTATIVE)이며 변경 가능",
+    "워크숍·튜토리얼 의향서 2027-01-15 · 본제안 2027-04-02",
+    "Long/Regular Papers 초록 마감 2027-01-31 · 본문 마감 2027-02-05 · 채택 통보 2027-04-20",
+    "Student Innovation Challenge 제안 2027-03-26",
+    "Work-in-Progress 마감 2027-05-14",
+    "Previously Published Papers(PPP) 제출 마감 2027-05-14",
+    "Hands-on Demonstrations·Haptic Design Showcase 마감 2027-05-07",
+    "최종본(camera-ready) 마감 2027-05-14"
+  ],
+  "sources": [
+    "https://2027.worldhaptics.org/",
+    "https://2027.worldhaptics.org/register/"
+  ],
+  "tags": [
+    "햅틱",
+    "국제",
+    "IEEE",
+    "격년"
+  ]
+}

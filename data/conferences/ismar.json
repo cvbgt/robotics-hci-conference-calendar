@@ -1,0 +1,57 @@
+{
+  "acronym": "ISMAR",
+  "fullname": "IEEE International Symposium on Mixed and Augmented Reality (2027, 26th)",
+  "kiise": "최우수",
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "IEEE International Symposium on Mixed and Augmented Reality"
+    },
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "IEEE International Symposium on Mixed and Augmented Reality"
+    }
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": "A*",
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=ISMAR&by=acronym&source=ICORE2026"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": null,
+  "end": null,
+  "dates": "미정",
+  "location": "Kobe, Japan",
+  "registration": "등록 마감 미공개",
+  "regDeadline": null,
+  "abstractDeadline": null,
+  "paperDeadline": null,
+  "website": "https://www.ieeeismar.net/2027/",
+  "notes": "AR·MR·VR의 관련 학회. 공식 2027 사이트는 Kobe만 발표했으며 날짜·행사장·모집 마감은 미정이다. 자성 공명·대수층 함양 분야의 동명 ISMAR와 구분한다.",
+  "keynotes": [],
+  "keynotesNote": "차기 개최판 연사 미확인",
+  "program": [],
+  "paperProcess": [
+    "논문·워크숍·포스터·데모·등록 마감 미공개"
+  ],
+  "sources": [
+    "https://www.ieeeismar.net/2027/"
+  ],
+  "tags": [
+    "VR",
+    "HCI",
+    "확인필요",
+    "국제"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "acronym": "센서학회 춘계",
+  "fullname": "2027년 한국센서학회 춘계학술대회",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국내",
+  "start": "2027-04-07",
+  "end": "2027-04-08",
+  "dates": "2027.04.07 – 04.08",
+  "location": "한국과학기술회관",
+  "registration": "사전등록 미공개 · 스페셜세션 제안 마감 2026.10.30",
+  "website": "https://sensors.or.kr/",
+  "notes": "공식 스페셜세션 수요제안 HWP 첨부파일에서 기간·장소 확인. 일반 초록 양식·접수 및 사전등록 방법은 추후 공지 예정.",
+  "paperProcess": [
+    "공식 수요제안 양식 작성 후 ksensors@sensors.or.kr로 스페셜세션 제안 제출: 마감 2026-10-30",
+    "공개세션 및 프로그램에 노출되는 비공개세션 발표자도 초록 제출 필요 · 양식·제출 일정 추후 공지",
+    "좌장·발표자를 포함한 세션 참가자 모두 학술대회 등록 필요 · 등록 방법·마감 미공개"
+  ],
+  "sources": [
+    "https://sensors.or.kr/",
+    "https://sensors.or.kr/board/guide/article/285896",
+    "https://sensors.or.kr/homepage/boardMedia/227690"
+  ],
+  "tags": [
+    "센서",
+    "국내"
+  ]
+}

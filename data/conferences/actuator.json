@@ -1,0 +1,47 @@
+{
+  "acronym": "ACTUATOR",
+  "fullname": "Int. Conf. and Exhibition on New Actuator Systems and Applications (차기 회차 미정)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 6,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=ACTUATOR"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-센서·소자",
+  "start": null,
+  "end": null,
+  "dates": "미정",
+  "location": "미정",
+  "registration": "차기 회차 등록·제출 일정 미공개",
+  "website": "https://www.actuator.de/en",
+  "notes": "VDE/GMM 주관 격년 학회. 공식 2026판은 6/29–7/1 Wiesbaden에서 종료됐으며 Bremen/Messe Bremen 정보는 현재 회차에 적용하지 않는다. 2027 개최 발표 없음. 격년 주기만으로 2028 일정·장소를 확정하지 않고 차기 회차 미정으로 추적.",
+  "keynotes": [],
+  "keynotesNote": "차기 회차 연사 미발표",
+  "program": [
+    "학회 범위: 고분자·전기활성 고분자·마이크로 액추에이터, 소프트로봇, 햅틱·촉각 장치",
+    "차기 회차 프로그램 미발표"
+  ],
+  "paperProcess": [
+    "차기 회차 논문 모집·제출·등록 일정 미공개 (2026 마감은 이월하지 않음)"
+  ],
+  "sources": [
+    "https://www.actuator.de/en",
+    "https://www.actuator.de/en/target-audience",
+    "https://www.actuator.de/resource/blob/2393986/6eceb4877e2ca04a8b5c031a526d03df/actuator2026-cfp-data.pdf"
+  ],
+  "tags": [
+    "메카트로닉스",
+    "액추에이터",
+    "EAP",
+    "소프트로봇",
+    "햅틱",
+    "국제",
+    "확인필요"
+  ]
+}

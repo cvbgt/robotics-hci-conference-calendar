@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+적용 범위: data/conferences/*.json 및 생성 데이터 data/items.js, data/places.js.
+저작자 표시: robotics-hci-conference-calendar contributors.
+
+이 데이터는 CC BY 4.0에 따라 공유·복제·재배포·수정할 수 있으며 상업적 이용도 가능합니다.
+이용 시 저작자를 표시하고 라이선스 링크를 제공하며 변경 여부를 밝혀야 합니다.
+라이선스가 허용하는 이용을 제한하는 추가 법적 조건이나 기술적 조치를 부과할 수 없습니다.
+보증은 제공되지 않으며 제삼자의 권리가 별도로 적용될 수 있습니다.
+이 요약은 법적 효력이 있는 이용허락 전문을 대신하지 않습니다.
+
+Scope: data/conferences/*.json and generated data/items.js and data/places.js.
+Attribution: robotics-hci-conference-calendar contributors.
+You may share and adapt this data, including commercially, with appropriate attribution,
+a license link, and an indication of changes. No additional restrictions may be imposed.
+No warranties are given; third-party rights may apply. This summary does not replace the legal code.
+
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Third-party code, fonts, icons, and their license notices in vendor/ retain their own licenses.

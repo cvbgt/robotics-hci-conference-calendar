@@ -1,0 +1,51 @@
+{
+  "acronym": "AsiaHaptics",
+  "fullname": "AsiaHaptics (2026)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": "2026-11-17",
+  "end": "2026-11-20",
+  "dates": "2026.11.17 – 11.20",
+  "location": "인천 송도 (센트럴파크 호텔)",
+  "registration": "얼리버드 2026.10.16 종료 · 온라인 결제 2026.11.09 종료 · 현장 등록",
+  "regDeadline": "2026-10-16",
+  "website": "https://asiahaptics2026.org/",
+  "notes": "직접 체험·시연 중심의 햅틱 학회로 촉각 센서·구동기·웨어러블 연구에 연관. 기준일 2026-11-20까지 진행 중이므로 공식 2026판 유지. 차기 개최 일정·장소 미발표.",
+  "keynotes": [],
+  "keynotesNote": "공식 Plenary/Lifetime Talks 페이지에서 연사 확인 가능",
+  "program": [
+    "체험형 시연·인터랙티브 포스터·워크숍·튜토리얼·Haptic Innovation Challenge",
+    "Plenary·Lifetime Talk"
+  ],
+  "paperProcess": [
+    "논문(2쪽 확장초록) 제출 마감 2026-07-24 · 워크숍 제안 마감 2026-07-24",
+    "채택 통보 2026-09-09 · 최종본 제출 마감 2026-10-02",
+    "얼리버드·저자 등록 마감 2026-10-16 (23:59 AoE)",
+    "온라인 등록 결제 마감 2026-11-09 (AoE, 이후 현장 결제)",
+    "Spotlight 발표 PDF 제출 마감 2026-11-13 (23:59:59 KST, UTC+9)",
+    "선택 영상(3분 이내)과 시연 공간·전원 등의 배치도 제출 · 주된 발표 형식은 현장 시연"
+  ],
+  "sources": [
+    "https://asiahaptics2026.org/",
+    "https://asiahaptics2026.org/cfp",
+    "https://asiahaptics2026.org/registration",
+    "https://asiahaptics2026.org/board/article/5478"
+  ],
+  "tags": [
+    "햅틱",
+    "촉각센서",
+    "액추에이터",
+    "웨어러블",
+    "HCI",
+    "국제"
+  ]
+}

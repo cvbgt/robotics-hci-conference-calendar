@@ -1,0 +1,32 @@
+{
+  "acronym": "나노코리아",
+  "fullname": "NANO KOREA 2027 — 제25회 국제 나노기술컨퍼런스 및 융합전시회",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국내",
+  "start": "2027-07-07",
+  "end": "2027-07-09",
+  "dates": "2027.07.07 – 07.09",
+  "location": "경기 고양 KINTEX 제1전시장",
+  "registration": "관람 사전등록·논문 마감 미정",
+  "website": "https://nanokorea.or.kr/introduce/summary.php",
+  "notes": "심포지엄+전시회 병행. 나노소재·센서.",
+  "sources": [
+    "https://nanokorea.or.kr/introduce/summary.php",
+    "https://nanokorea.net/news/01.php?admin_mode=read&no=7088"
+  ],
+  "tags": [
+    "나노",
+    "센서",
+    "국내",
+    "전시"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "acronym": "ITS",
+  "fullname": "International Conference on Intelligent Tutoring Systems",
+  "kiise": null,
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "International Conference on Intelligent Tutoring Systems",
+      "row": "BKCSA177",
+      "page": 7
+    }
+  ],
+  "category": "국제-AI·비전",
+  "start": null,
+  "end": null,
+  "dates": "미정",
+  "location": "미정",
+  "registration": "미공개",
+  "website": "https://its-conferences.com/",
+  "notes": "공식 목록 등재 확인. 등록·제출 마감은 미확인. 차기 개최 일정 미확인.",
+  "tags": [
+    "AI·학습",
+    "HCI",
+    "확인필요"
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": null,
+  "sources": [
+    "https://its-conferences.com/"
+  ],
+  "future": [],
+  "keynotes": [],
+  "program": [],
+  "paperProcess": []
+}

@@ -1,0 +1,38 @@
+{
+  "acronym": "ICROS 학술대회",
+  "fullname": "제42회 제어·로봇·시스템학회 학술대회 (ICROS 2027)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국내",
+  "start": "2027-06-30",
+  "end": "2027-07-03",
+  "dates": "2027.06.30 – 07.03",
+  "location": "강원도 고성 (소노캄 델피노)",
+  "registration": "등록·논문 제출 일정 미공개",
+  "website": "https://icros.org/conference/conference01_1.asp?AC=1&sub_param=2",
+  "notes": "제어·로봇·시스템 분야 국내 연례 학술대회. 학회 공식 개최 계획과 공지에서 2027 일정·장소 확인. 국제학술대회 ICCAS와 별개 행사.",
+  "keynotes": [],
+  "keynotesNote": "2027 연사 미발표",
+  "paperProcess": [
+    "2027 논문 모집·심사·최종본·저자 등록 일정 미공개"
+  ],
+  "sources": [
+    "https://icros.org/conference/conference01_1.asp?AC=1&sub_param=2",
+    "https://icros.org/eng/sub/sub04_2.asp",
+    "https://icros.org/Board/board.asp?Action=content&B_CATE=BBS1&GotoPage=1&b_code=6387"
+  ],
+  "tags": [
+    "로봇",
+    "제어",
+    "메카트로닉스",
+    "국내"
+  ]
+}

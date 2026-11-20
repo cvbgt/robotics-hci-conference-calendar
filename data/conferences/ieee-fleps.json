@@ -1,0 +1,53 @@
+{
+  "acronym": "IEEE FLEPS",
+  "fullname": "IEEE Int. Conf. on Flexible and Printable Sensors and Systems (2027)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 17,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=IEEE%20SENSORS"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-센서·소자",
+  "start": "2027-07-11",
+  "end": "2027-07-14",
+  "dates": "2027.07.11 – 07.14",
+  "location": "Cambridge, UK (University of Cambridge, Ray Dolby Centre)",
+  "registration": "등록 마감 미공개 · 학회 논문 마감 2027.03.07",
+  "website": "https://ieee-fleps.org/2027",
+  "notes": "유연·신축·인쇄 전자와 센서·웨어러블·로봇 응용을 다룬다. 유연/FPCB 전극과 촉각 센서 연구에 연관. 개최일은 IEEE Sensors Council, 장소·제출 일정은 2027 공식 사이트에서 확인.",
+  "keynotes": [],
+  "keynotesNote": "2027 연사 미발표",
+  "program": [
+    "유연·신축·인쇄 센서와 전자회로, 웨어러블·이식형 시스템, 제조·신뢰성·모델링",
+    "세부 세션·시간표 미발표"
+  ],
+  "paperProcess": [
+    "Focus Session 제안 마감 2027-01-31",
+    "Option B: IEEE Sensors Letters 논문 제출 마감 2027-02-14",
+    "Option A: 학회 Proceedings 논문 제출 마감 2027-03-07",
+    "튜토리얼·워크숍 제안 마감 2027-03-28",
+    "채택 통보 2027-04-18 · 최종본 제출 마감 2027-05-09",
+    "두 출판 경로 중 하나를 선택하며 동일 논문 중복 제출 불가 · 저자 등록 일정 미공개"
+  ],
+  "sources": [
+    "https://ieee-fleps.org/2027",
+    "https://ieee-fleps.org/2027/authors/call-for-papers",
+    "https://ieee-fleps.org/2027/authors/initial-author-instructions",
+    "https://ieee-fleps.org/2027/travel/venue",
+    "https://ieee-sensors.org/technical-committees/tc-fleps/"
+  ],
+  "tags": [
+    "센서",
+    "유연전자",
+    "촉각센서",
+    "웨어러블",
+    "국제",
+    "IEEE"
+  ]
+}

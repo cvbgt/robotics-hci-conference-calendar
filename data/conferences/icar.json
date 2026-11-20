@@ -1,0 +1,44 @@
+{
+  "acronym": "ICAR",
+  "fullname": "IEEE Int. Conf. on Advanced Robotics (2027, 23rd)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 18,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Advanced%20Robotics"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-07-12",
+  "end": "2027-07-16",
+  "dates": "2027.07.12 – 07.16",
+  "location": "Zagreb, Croatia (University of Zagreb, FER)",
+  "registration": "등록 미공개 · 논문 마감 2027.03.21 (IEEE RAS 일정)",
+  "website": "https://2027.ieee-icar.org/",
+  "notes": "1983년부터 이어진 RAS 로봇 학회 — 2027 주제 'Deep Tech Robotics and Embodied AI'(생체의료·소프트 로봇 중심).",
+  "keynotes": [],
+  "keynotesNote": "2027 연사 미발표",
+  "program": [
+    "주제: Deep Tech Robotics and Embodied AI — 바이오메디컬·바이오로보틱스·소프트 로봇",
+    "세부 프로그램 미발표 (공식 사이트 구축 중)"
+  ],
+  "paperProcess": [
+    "논문 마감 2027-03-21 (IEEE RAS 일정) — 공식 사이트는 아직 템플릿 문구라 RAS 일정을 따름",
+    "채택 통보·최종본 일정 미공개"
+  ],
+  "sources": [
+    "https://www.ieee-ras.org/event/2027-ieee-23rd-international-conference-on-advanced-robotics-icar-73471/",
+    "https://www.ieee-ras.org/event/deadlines-paper-submission-deadline-icar-2027-ieee-23rd-international-conference-on-advanced-robotics-icar-29581-0/",
+    "https://2027.ieee-icar.org/"
+  ],
+  "tags": [
+    "로봇",
+    "학습",
+    "국제"
+  ]
+}

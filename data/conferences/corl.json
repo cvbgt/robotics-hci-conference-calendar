@@ -1,0 +1,96 @@
+{
+  "acronym": "CoRL",
+  "fullname": "Conference on Robot Learning (2026)",
+  "csrankings": null,
+  "scholarTop20": "Robotics",
+  "kiise": "우수",
+  "bk21": null,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "Conference on Robot Learning"
+    }
+  ],
+  "core": null,
+  "h5": 107,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2026-11-09",
+  "end": "2026-11-12",
+  "dates": "2026.11.09 – 11.12",
+  "location": "Austin, TX, USA (JW Marriott / Hilton Austin / Bass Hall)",
+  "registration": "일반 요금 기간(2026.10.13 – 10.31) 종료 · 이후 요금 미공개",
+  "website": "https://www.corl.org/",
+  "notes": "로봇 학습 대표 학회. 촉각 기반 조작·제어 트렌드.",
+  "keynotes": [
+    {
+      "name": "Russ Tedrake",
+      "affiliation": "MIT",
+      "topic": ""
+    },
+    {
+      "name": "Fei-Fei Li",
+      "affiliation": "Stanford University / World Labs 공동창업·CEO",
+      "topic": ""
+    },
+    {
+      "name": "Wolfram Burgard",
+      "affiliation": "University of Technology Nuremberg",
+      "topic": ""
+    },
+    {
+      "name": "Lisa Su",
+      "affiliation": "AMD (Chair·CEO)",
+      "topic": "Fei-Fei Li와 fireside chat"
+    },
+    {
+      "name": "Negar Mehr",
+      "affiliation": "UC Berkeley",
+      "topic": "Early Career Keynote — 로봇의 상호작용·협력 학습"
+    },
+    {
+      "name": "Roberto Martin-Martin",
+      "affiliation": "University of Texas at Austin",
+      "topic": "Early Career Keynote — 실제 환경에서 로봇이 학습할 수 있는 범위 확장"
+    },
+    {
+      "name": "Hang Zhao",
+      "affiliation": "Tsinghua University",
+      "topic": "Early Career Keynote — 여러 시간 척도에 걸친 Physical AI 구성"
+    }
+  ],
+  "keynotesNote": "키노트 4명(Lisa Su 포함) 중 fireside chat 외 발표 주제는 미공개. Early Career Keynote 3명과 주제 공개 (주제는 한국어 요약).",
+  "program": [
+    "2026-11-09..11 본 학회 · 2026-11-12 워크숍",
+    "JW Marriott: 포스터·전시 / Hilton: 1~2일차 발표·키노트 / Bass Hall: 리셉션·3일차 키노트",
+    "Lisa Su·Fei-Fei Li fireside chat"
+  ],
+  "paperProcess": [
+    "OpenReview로 8쪽 본문 제출 · 이중 익명 심사 · Limitations 절 필수",
+    "논문 마감 2026-05-28 · 저자 상호 리뷰 참여 요건 적용",
+    "최종본 2026-10-12 23:59 AoE (본문 최대 9쪽) · PDF와 서명한 출판 동의서 제출",
+    "논문당 최소 1명 Full 등록 필수(학생 등록 허용), 등록 1건으로 최대 2편",
+    "Late Breaking Results 모집 개시 공지 공개 · 제출 절차·마감 미공개"
+  ],
+  "sources": [
+    "https://www.corl.org/",
+    "https://www.corl.org/program/keynotes",
+    "https://www.corl.org/program/early-career-keynotes",
+    "https://www.corl.org/attending/registration",
+    "https://www.corl.org/contributions/instruction-for-authors",
+    "https://www.corl.org/contributions/call-for-late-breaking-results",
+    "https://web.cvent.com/event/f8bc3f56-3433-4d69-8a33-8aae9eb674b8/register?environment=P2"
+  ],
+  "tags": [
+    "로봇",
+    "학습",
+    "국제"
+  ]
+}

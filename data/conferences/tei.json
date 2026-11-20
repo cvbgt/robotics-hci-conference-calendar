@@ -1,0 +1,54 @@
+{
+  "acronym": "TEI",
+  "fullname": "ACM Int. Conf. on Tangible, Embedded and Embodied Interaction (2027)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": "B",
+  "h5": 31,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=TEI&by=acronym&source=ICORE2026",
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Tangible%20Embedded%20Embodied%20Interaction"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": "2027-01-24",
+  "end": "2027-01-27",
+  "dates": "2027.01.24 – 01.27",
+  "location": "Lisbon, Portugal (Centro Cultural de Belém)",
+  "registration": "얼리버드·채택 저자 등록 마감 2026.12.18 · SDC 마감 2026.11.09",
+  "regDeadline": "2026-12-18",
+  "website": "https://tei.acm.org/2027/",
+  "notes": "촉각·텐저블·체화 인터랙션 ACM 학회 — 햅틱 연구자 핵심 발표 채널. 테마 'The Body in Space'.",
+  "paperProcess": [
+    "Papers/Pictorials 마감 2026-08-06 (AoE) · 조건부 채택 2026-10-22",
+    "Papers/Pictorials 비익명 수정본 PCS 제출 2026-11-03 · 최종 통보 2026-11-13 · 출판용 최종본 2026-11-19",
+    "Work-in-Progress·Arts and Performances 마감 2026-10-26 (AoE) · 최종본 2026-12-07",
+    "Graduate Student Consortium 연구 논문 마감 2026-10-30 (AoE) · 통보 2026-11-21 · 최종본 2026-12-04",
+    "Studios 제안 마감 2026-11-02 (AoE) · 통보 2026-11-16 · 최종본 2026-11-30",
+    "Student Design Competition 2–4쪽 논문 PCS 제출 2026-11-09 (AoE) · 통보 2026-11-18 · 최종본 2026-11-25",
+    "채택 논문·확장초록당 저자 1명 이상 얼리버드 등록 마감 2026-12-18 (studio 전용 등록 제외)"
+  ],
+  "sources": [
+    "https://tei.acm.org/2027/",
+    "https://tei.acm.org/2027/registration.html",
+    "https://tei.acm.org/2027/call-for-papers.html",
+    "https://tei.acm.org/2027/call-for-pictorials.html",
+    "https://tei.acm.org/2027/cfp-wip.html",
+    "https://tei.acm.org/2027/cfp-arts-performances.html",
+    "https://tei.acm.org/2027/cfp-gsc.html",
+    "https://tei.acm.org/2027/cfp-studios.html",
+    "https://tei.acm.org/2027/cfp-sdc.html"
+  ],
+  "tags": [
+    "HCI",
+    "햅틱",
+    "인터페이스",
+    "국제",
+    "ACM",
+    "톱티어"
+  ]
+}

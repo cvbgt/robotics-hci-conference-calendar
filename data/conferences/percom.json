@@ -1,0 +1,71 @@
+{
+  "acronym": "PerCom",
+  "fullname": "IEEE International Conference on Pervasive Computing and Communications (2027, 25th)",
+  "kiise": "우수",
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "IEEE International Conference on Pervasive Computing and Communications"
+    },
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "IEEE International Conference on Pervasive Computing and Communications"
+    }
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": "A*",
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=PerCom&by=acronym&source=ICORE2026"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-센서·소자",
+  "start": "2027-03-08",
+  "end": "2027-03-12",
+  "dates": "2027.03.08 – 03.12",
+  "location": "Goa, India",
+  "registration": "얼리버드 2027.01.24 · 본 학회 저자등록 2027.01.17",
+  "regDeadline": "2027-01-24",
+  "abstractDeadline": null,
+  "paperDeadline": "2026-09-18",
+  "timezone": "AoE",
+  "website": "https://percom.org/",
+  "notes": "퍼베이시브 컴퓨팅의 센서 시스템·스마트 기기 연구를 다룬다. 로컬 조회는 403이었으나 공식 페이지 본문은 웹 조회로 확인했다. 네트워크 기능 자체보다 웨어러블·환경 센싱 시스템 연구와의 관련성으로 수록한다.",
+  "keynotes": [],
+  "keynotesNote": "차기 개최판 연사 미확인",
+  "program": [],
+  "paperProcess": [
+    "논문 등록 마감(연장) 2026-09-11 (AoE)",
+    "논문 제출 마감(연장) 2026-09-18 (AoE)",
+    "저자 회신 마감 2026-11-27 (AoE)",
+    "채택 통보 2026-12-18",
+    "최종본 마감 2027-01-17 (AoE)",
+    "저자 등록 마감 2027-01-17 (AoE)",
+    "워크숍 논문 마감(연장) 2026-11-30 (23:59 AoE)",
+    "WiP 논문 마감(연장) 2026-12-02 (23:59 AoE)",
+    "데모 제출 마감 2026-12-08 (AoE)",
+    "PhD Forum 초록 마감 2026-12-07 (23:59 AoE)",
+    "부대 행사 최종본 마감 2027-01-24 (AoE)",
+    "부대 행사 저자 등록·얼리버드 마감 2027-01-24 (AoE)"
+  ],
+  "sources": [
+    "https://percom.org/",
+    "https://percom.org/dates/",
+    "https://percom.org/registration-instructions/"
+  ],
+  "tags": [
+    "센서",
+    "웨어러블",
+    "HCI",
+    "국제"
+  ]
+}

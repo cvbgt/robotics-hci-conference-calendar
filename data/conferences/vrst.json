@@ -1,0 +1,57 @@
+{
+  "acronym": "VRST",
+  "fullname": "ACM Symposium on Virtual Reality Software and Technology (차기 회차 미정)",
+  "kiise": "우수",
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "ACM Symposium on Virtual Reality Software and Technology"
+    },
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "ACM Symposium on Virtual Reality Software and Technology"
+    }
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": "B",
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=VRST&by=acronym&source=ICORE2026"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": null,
+  "end": null,
+  "dates": "미정",
+  "location": "미정",
+  "registration": "등록 마감 미공개",
+  "regDeadline": null,
+  "abstractDeadline": null,
+  "paperDeadline": null,
+  "website": "https://vrst.acm.org/",
+  "notes": "VR/AR 소프트웨어·기술 교류 학회. 공식 시리즈 페이지는 2026.11.16–18 Sendai까지만 안내한다. 이미 종료된 회차의 장소·날짜·마감을 차기 회차로 이월하지 않으며 2027 개최를 추정하지 않는다.",
+  "keynotes": [],
+  "keynotesNote": "차기 개최판 연사 미확인",
+  "program": [],
+  "paperProcess": [
+    "차기 회차 논문·최종본·등록 일정 미공개"
+  ],
+  "sources": [
+    "https://vrst.acm.org/"
+  ],
+  "tags": [
+    "VR",
+    "HCI",
+    "확인필요",
+    "국제"
+  ]
+}

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>confcal — 학회 일정 대시보드</title>
+  <link rel="icon" href="vendor/lucide-static/1.31.0/icons/calendar.svg" type="image/svg+xml" />
+  <script src="assets/theme-toggle.js"></script>
+  <!-- palette 레이어: open-color 1.9.1 (vendored, sha256 고정) — style.css 의 의미 색이 이 토큰을 참조한다 -->
+  <link rel="stylesheet" href="vendor/open-color/1.9.1/open-color.css" />
+  <link rel="stylesheet" href="assets/style.css" />
+  <!-- 데이터는 <script>로 주입 → file:// 더블클릭에서도 동작 (fetch 없음) -->
+  <script defer src="data/items.js"></script>
+  <script defer src="data/places.js"></script>
+  <!-- 채택 레이어 (static-derived-doc 블루프린트) — 전부 vendor/ 의 고정 바이트, 외부 origin 0 -->
+  <script defer src="assets/icons.js"></script>
+  <script defer src="assets/palette.js"></script>
+  <script defer src="assets/search.js"></script>
+  <script defer src="assets/filters.js"></script>
+  <script defer src="assets/app.js"></script>
+  <script defer src="assets/usage-offline.js"></script>
+  <script defer src="assets/usage.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-title">
+      <h1><span class="brand-text">confcal</span></h1>
+      <p class="tagline">컴퓨터과학 · 로봇 · 햅틱 · 센서 학회 일정</p>
+      <button type="button" class="theme-toggle" data-theme-toggle>◐ 시스템</button>
+    </div>
+
+    <div class="board-tabs" role="tablist" aria-label="보드 보기">
+      <button type="button" id="schedule-tab" role="tab" aria-selected="true" aria-controls="schedule-panel">일정</button>
+      <button type="button" id="usage-tab" role="tab" aria-selected="false" aria-controls="usage-panel" tabindex="-1">쓰는 법</button>
+    </div>
+  </header>
+
+  <div id="schedule-panel" role="tabpanel" aria-labelledby="schedule-tab">
+    <div class="schedule-controls">
+    <div class="controls">
+      <input id="search" type="search" placeholder="학회명 · 장소 · 태그 검색…" aria-label="학회명 · 장소 · 태그 검색" />
+    </div>
+    <details class="filter-panel" id="filters">
+      <summary><span id="filter-summary">필터 · 전체 분야</span><span class="filter-hint" id="hide-summary">종료·미정 숨김</span></summary>
+      <div class="filter-content">
+        <div class="filter-options">
+          <label class="chk"><input type="checkbox" id="hidePast" checked /> 종료 숨기기</label>
+          <label class="chk"><input type="checkbox" id="hideTbd" checked /> 미정 숨기기</label>
+          <label class="chk"><input type="checkbox" id="tierOnly" /> 평판 A 이상</label>
+          <label class="category-select">분류 <select id="category-filter" aria-label="분류 필터"></select></label>
+          <span id="search-mode" class="search-mode" title="검색 엔진">검색 준비 중</span>
+        </div>
+        <p class="filter-help" id="tag-help">등급끼리·분야끼리는 하나만 맞아도 포함 · 등급과 분야는 함께 적용 · 건수는 검색·분류·평판과 반대 그룹의 선택 기준</p>
+        <div id="tag-filters" aria-describedby="tag-help" class="tag-filters small" role="group" aria-label="태그 필터"></div>
+      </div>
+    </details>
+    </div>
+
+  <section class="topstrip" aria-label="지금 확인할 일정">
+    <div id="next-event" class="next-event" aria-label="가장 가까운 개최"></div>
+    <div id="deadlines" class="deadlines" aria-label="30일 안 마감"></div>
+  </section>
+
+  <!-- chart 레이어: 월별 개최 분포. 막대를 누르면 그 달로 이동한다 (표의 색인 역할) -->
+  <details class="figure" id="figure">
+    <summary>월별 개최 분포 <span class="filter-hint">향후 12개월</span></summary>
+    <div class="figure-head">
+      <h2>월별 개최 분포</h2>
+      <p class="figure-note">현재 필터 결과 기준 · 분류별 누적 · 막대를 누르면 그 달로 이동</p>
+    </div>
+    <div class="figure-canvas"><canvas id="monthChart" height="132" role="img" aria-label="분류별 월별 개최 건수, 같은 일정은 아래 아젠다에서 확인할 수 있습니다"></canvas></div>
+  </details>
+
+  <main id="agenda" class="agenda" aria-live="polite" aria-label="날짜별 아젠다"></main>
+  </div>
+
+  <section id="usage-panel" class="usage-panel" role="tabpanel" aria-labelledby="usage-tab" hidden>
+    <h2>쓰는 법</h2>
+    <p>관심 학회를 찾고, 마감과 개최판을 확인하세요. 항목을 펼쳐 요청 문장을 복사해 에이전트에게 부탁할 수 있습니다.</p>
+    <p id="usage-status" role="status"></p>
+    <button type="button" id="usage-retry" hidden>다시 불러오기</button>
+    <div id="usage-content"></div>
+  </section>
+
+  <!-- 행 클릭 시 열리는 상세 패널 (향후 개최 · 키노트 · 프로그램 · 논문 등록 절차) -->
+  <div id="modal" class="modal" hidden aria-modal="true" role="dialog">
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-panel" role="document">
+      <button class="modal-x" data-close aria-label="닫기" data-icon="x"></button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <span id="count"></span>
+    <span>· <time id="today"></time> 기준</span>
+    <span class="legend">
+      <em class="dot s-upcoming"></em>예정
+      <em class="dot s-ongoing"></em>진행중
+      <em class="dot s-past"></em>종료
+      <em class="dot s-tbd"></em>미정
+    </span>
+  </footer>
+
+
+</body>
+</html>

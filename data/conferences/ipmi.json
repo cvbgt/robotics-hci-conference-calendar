@@ -1,0 +1,42 @@
+{
+  "acronym": "IPMI",
+  "fullname": "International Conference on Information Processing in Medical Imaging",
+  "kiise": "우수",
+  "bk21": null,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "International Conference on Information Processing in Medical Imaging",
+      "row": "2024-A-084",
+      "page": 8
+    }
+  ],
+  "category": "국제-의료·재활",
+  "start": "2027-06-27",
+  "end": "2027-07-02",
+  "dates": "2027.06.27 – 2027.07.02",
+  "location": "Lake Stukely, QC, Canada",
+  "registration": "미공개",
+  "website": "https://2027.ipmi-conf.org/",
+  "notes": "공식 목록 등재 확인. 등록·제출 마감은 미확인.",
+  "tags": [
+    "의료·재활"
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": null,
+  "sources": [
+    "https://2027.ipmi-conf.org/"
+  ],
+  "future": [],
+  "keynotes": [],
+  "program": [],
+  "paperProcess": []
+}

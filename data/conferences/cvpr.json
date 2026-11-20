@@ -1,0 +1,69 @@
+{
+  "acronym": "CVPR",
+  "fullname": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (2027)",
+  "kiise": "최우수",
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+    },
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+    }
+  ],
+  "csrankings": true,
+  "scholarTop20": "Computer Vision & Pattern Recognition",
+  "core": "A*",
+  "h5": 450,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=CVPR&by=acronym&source=ICORE2026",
+    "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition",
+    "https://csrankings.org/"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-AI·비전",
+  "start": null,
+  "end": null,
+  "dates": "미정 (2027.06.20 시작 · 종료 06.24/06.25 불일치)",
+  "location": "Seattle, WA, USA",
+  "registration": "등록 마감 미공개",
+  "regDeadline": null,
+  "abstractDeadline": null,
+  "paperDeadline": "2026-11-16",
+  "timezone": "AoE",
+  "website": "https://cvpr.thecvf.com/Conferences/2027",
+  "notes": "공식 CFP에 Embodied vision and robotics, Physical AI, VLA·계획·시뮬레이션이 포함된다. 메인은 2027.06.20–24, Dates는 워크숍 6/20–21·본 학회 6/22–25로 종료일이 충돌한다. 개최 범위 확정 전 start·end는 null로 유지한다.",
+  "keynotes": [],
+  "keynotesNote": "차기 개최판 연사 미확인",
+  "program": [
+    "로봇비전·센서·멀티모달 학습 논문 모집"
+  ],
+  "paperProcess": [
+    "논문 등록 마감 2026-11-10 (AoE)",
+    "논문 제출 마감 2026-11-16 (23:59 AoE)",
+    "보충자료 제출 마감 2026-11-23 (23:59 AoE)",
+    "저자 회신 마감 2027-02-01 (AoE)",
+    "채택 통보 2027-02-25"
+  ],
+  "sources": [
+    "https://cvpr.thecvf.com/Conferences/2027",
+    "https://cvpr.thecvf.com/Conferences/2027/Dates",
+    "https://cvpr.thecvf.com/Conferences/2027/CallForPapers"
+  ],
+  "tags": [
+    "로봇",
+    "학습",
+    "로봇비전",
+    "확인필요",
+    "국제"
+  ]
+}

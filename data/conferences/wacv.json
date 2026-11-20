@@ -1,0 +1,42 @@
+{
+  "acronym": "WACV",
+  "fullname": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+  "kiise": "우수",
+  "bk21": null,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "row": "2024-A-138",
+      "page": 11
+    }
+  ],
+  "category": "국제-AI·비전",
+  "start": "2027-01-04",
+  "end": "2027-01-08",
+  "dates": "2027.01.04 – 2027.01.08",
+  "location": "미정",
+  "registration": "미공개",
+  "website": "https://wacv.thecvf.com/",
+  "notes": "공식 목록 등재 확인. 등록·제출 마감은 미확인.",
+  "tags": [
+    "비전"
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": null,
+  "sources": [
+    "https://wacv.thecvf.com/"
+  ],
+  "future": [],
+  "keynotes": [],
+  "program": [],
+  "paperProcess": []
+}

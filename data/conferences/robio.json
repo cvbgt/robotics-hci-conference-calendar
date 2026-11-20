@@ -1,0 +1,45 @@
+{
+  "acronym": "ROBIO",
+  "fullname": "IEEE Int. Conf. on Robotics and Biomimetics (2026, 22nd)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 14,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Robotics%20Biomimetics"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2026-12-16",
+  "end": "2026-12-20",
+  "dates": "2026.12.16 – 12.20",
+  "location": "Tengchong, Yunnan, China (Tengchong Empark Grand Hotel)",
+  "registration": "등록 마감 미공개 · 최종본 마감 2026.10.31 종료",
+  "website": "https://www.robio2026.org/",
+  "notes": "생체모방 로봇 학회 — 주제 'Biomimetic Robots Empowered by AI'로 소프트·생체모방 구동과 연결.",
+  "keynotes": [],
+  "keynotesNote": "홈페이지에 연사 명단 미게재 (프로그램 PDF만 공개)",
+  "program": [
+    "논문 발표·워크숍·튜토리얼",
+    "프로그램·Program at a Glance PDF 공개"
+  ],
+  "paperProcess": [
+    "논문 마감 2026-08-15 (연장 후 종료)",
+    "워크숍·튜토리얼 제안 마감 2026-09-15",
+    "채택 통보 2026-10-15",
+    "최종본 2026-10-31"
+  ],
+  "sources": [
+    "https://www.robio2026.org/",
+    "https://www.ieee-ras.org/event/2026-ieee-international-conference-on-robotics-and-biomimetics-robio-70439/"
+  ],
+  "tags": [
+    "로봇",
+    "메카트로닉스",
+    "국제"
+  ]
+}

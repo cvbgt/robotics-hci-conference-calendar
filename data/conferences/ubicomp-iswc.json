@@ -1,0 +1,56 @@
+{
+  "acronym": "UbiComp/ISWC",
+  "fullname": "ACM Int. Joint Conf. on Pervasive and Ubiquitous Computing / Int. Symposium on Wearable Computers (2027)",
+  "csrankings": true,
+  "scholarTop20": null,
+  "kiise": "최우수",
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp에 한함)"
+    },
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp에 한함)"
+    }
+  ],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [
+    "https://csrankings.org/"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": "2027-10-03",
+  "end": "2027-10-07",
+  "dates": "2027.10.03 – 10.07",
+  "location": "서울 (서울드래곤시티)",
+  "registration": "2027 등록·논문 제출 일정 미공개",
+  "website": "https://sigchi.org/events/ubicomp-2027/",
+  "notes": "유비쿼터스·퍼베이시브·웨어러블 컴퓨팅 공동 행사. 착용형 촉각 인터페이스·센서 시스템 연구에 연관. 2027 날짜·장소는 ACM SIGCHI 공식 일정에서 확인.",
+  "keynotes": [],
+  "keynotesNote": "2027 연사 미발표",
+  "paperProcess": [
+    "2027 UbiComp/IMWUT 발표 대상 호·제출 일정 및 ISWC 논문 모집 미공개",
+    "이전 회차나 저널의 관례적 마감을 2027 학회 마감으로 이월하지 않음 · 등록 일정 미공개"
+  ],
+  "sources": [
+    "https://sigchi.org/events/ubicomp-2027/"
+  ],
+  "tags": [
+    "HCI",
+    "웨어러블",
+    "센서",
+    "인터페이스",
+    "국제",
+    "ACM"
+  ]
+}

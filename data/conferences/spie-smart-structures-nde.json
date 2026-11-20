@@ -1,0 +1,55 @@
+{
+  "acronym": "SPIE Smart Structures + NDE",
+  "fullname": "SPIE Smart Structures + Nondestructive Evaluation (2027, EAPAD)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국제-센서·소자",
+  "start": "2027-03-22",
+  "end": "2027-03-25",
+  "dates": "2027.03.22 – 03.25",
+  "location": "Vancouver, Canada (Sheraton Vancouver Wall Centre)",
+  "registration": "등록 진행 · 할인 등록 2027.03.05까지",
+  "regDeadline": "2027-03-05",
+  "website": "https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+  "notes": "EAPAD(전기활성 고분자 액추에이터·센서·장치)에서 전기접착·유전 탄성체·전극 제작·소프트로봇을 명시적으로 모집. 표시 기간은 전체 심포지엄이며 EAPAD 개별 세션 시간표는 미발표.",
+  "keynotes": [],
+  "keynotesNote": "EAPAD 2027 키노트 미확인",
+  "program": [
+    "EAPAD: 전기활성 고분자 구동·감지, 전기접착, 소프트 센서, 전극·구동 회로",
+    "EAP/Soft Robotics-in-Action 시연 및 시상 · 소프트 메카트로닉스·웨어러블 관련 학회 공동 개최"
+  ],
+  "paperProcess": [
+    "초록 제출 마감 2026-09-30 (공식 안내상 지연 제출 접수 중, 추가 마감 미공개)",
+    "EAP/Soft Robotics-in-Action 시연 제안 마감 2026-10-21 (23:59 PDT)",
+    "채택 통보·프로그램 공개 2026-12-07",
+    "학생 논문상 신청·확장초록 제출 마감 2027-01-11 (23:59 PT) · 최종 후보 통보 2027-02-10",
+    "원고·포스터 PDF 제출 시스템 오픈 2027-01-18",
+    "포스터 PDF 제출 마감 2027-02-24 · 최종 논문 제출 마감 2027-03-03",
+    "할인 등록 마감 2027-03-05 · 구두 발표 슬라이드 사전 제출 마감 2027-03-19"
+  ],
+  "sources": [
+    "https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+    "https://spie.org/SS27/conferencedetails/electroactive-polymer-actuators-soft-sensors-devices",
+    "https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/manuscript-submission-guidelines",
+    "https://spie.org/conferences-and-exhibitions/smart-structures-nde/program/awards",
+    "https://spie.org/conferences-and-exhibitions/smart-structures-nde/attend/registration",
+    "https://spie.org/conferences-and-exhibitions/smart-structures-nde/attend/hotel-and-travel"
+  ],
+  "tags": [
+    "소프트로봇",
+    "EAP",
+    "액추에이터",
+    "전기접착",
+    "센서",
+    "웨어러블",
+    "국제"
+  ]
+}

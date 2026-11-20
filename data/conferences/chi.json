@@ -1,0 +1,76 @@
+{
+  "acronym": "CHI",
+  "fullname": "ACM CHI Conf. on Human Factors in Computing Systems (2027)",
+  "csrankings": true,
+  "scholarTop20": "Human Computer Interaction",
+  "kiise": "최우수",
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "ACM Conference on Human Factors in Computing Systems"
+    },
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "ACM Conference on Human Factors in Computing Systems"
+    }
+  ],
+  "core": "A*",
+  "h5": 139,
+  "acceptRate": null,
+  "repSources": [
+    "https://csrankings.org/",
+    "https://portal.core.edu.au/conf-ranks/?search=CHI&by=acronym&source=ICORE2026",
+    "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_humancomputerinteraction"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": "2027-05-10",
+  "end": "2027-05-14",
+  "dates": "2027.05.10 – 05.14",
+  "location": "Pittsburgh, PA, USA (David L. Lawrence Convention Center)",
+  "registration": "얼리버드 등록 미공개 · Papers 저자 등록 2027.03.04",
+  "website": "https://chi2027.acm.org/",
+  "notes": "HCI 최대 학회. 2027년 테마: Bridges.",
+  "keynotes": [],
+  "keynotesNote": "2027년 키노트 미발표",
+  "program": [
+    "Papers, Posters, Interactive Demos, Panels",
+    "Workshops, Meet-ups, Student Research Competition",
+    "Student Mentoring Program 및 Journals 트랙"
+  ],
+  "paperProcess": [
+    "PCS 투고 · 별도 초록 마감 없음 · Papers 및 보충자료 마감 2026-09-10 (AoE)",
+    "리뷰 공개 2026-11-05 · 수정 후 재제출 2026-12-03 · 최종 통보 2026-12-17",
+    "E-Rights 2027-01-07 · TAPS 제출 2027-01-14 · 출판용 최종본 2027-02-18",
+    "Papers 저자 등록·발표 영상 마감 2027-03-04",
+    "Panels 마감 2026-11-19 · Posters/Demos/SRC 마감 2027-01-21",
+    "Digital Experience Competition 제출 2026-12-04 · Journals 트랙 제출 2027-01-14"
+  ],
+  "sources": [
+    "https://chi2027.acm.org/",
+    "https://chi2027.acm.org/attendees/visa-faq/",
+    "https://chi2027.acm.org/authors/papers/",
+    "https://chi2027.acm.org/authors/panels/"
+  ],
+  "future": [
+    {
+      "year": 2028,
+      "location": "Cape Town, South Africa (장소·일정 미정)",
+      "dates": null,
+      "confidence": "confirmed",
+      "source": "https://sigchi.org/about/voting-history/"
+    }
+  ],
+  "tags": [
+    "HCI",
+    "국제",
+    "ACM"
+  ]
+}

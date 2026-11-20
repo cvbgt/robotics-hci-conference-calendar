@@ -1,0 +1,75 @@
+{
+  "acronym": "EMBC",
+  "fullname": "IEEE Engineering in Medicine and Biology Conference (2027, 49th)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 47,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Engineering%20Medicine%20Biology"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-의료·재활",
+  "start": "2027-07-11",
+  "end": "2027-07-15",
+  "dates": "2027.07.11 – 07.15",
+  "location": "Singapore (Suntec Singapore Convention & Exhibition Centre)",
+  "registration": "2027년 3월 등록 오픈 예정 · 등록 마감 미공개 · 본논문 마감 2027.01.24",
+  "website": "https://embc.embs.org/2027/",
+  "notes": "IEEE EMBS 바이오메디컬 공학 플래그십(제49회). 주제: 의료 혁신의 연구실·산업 연결.",
+  "keynotes": [
+    {
+      "name": "Kristi Anseth",
+      "affiliation": "University of Colorado Boulder, USA",
+      "topic": "약물 평가용 조직 모델을 위한 반응형 하이드로젤"
+    },
+    {
+      "name": "J. Justin Gooding",
+      "affiliation": "University of New South Wales, Australia",
+      "topic": "3차원 세포 배양과 초고감도 바이오센서를 활용한 액체 생검"
+    },
+    {
+      "name": "Xihong Lin",
+      "affiliation": "Harvard University, USA",
+      "topic": "유전체 건강·생성형 AI·통계의 통합을 통한 신뢰할 수 있는 발견 가속"
+    },
+    {
+      "name": "Bin Liu",
+      "affiliation": "National University of Singapore, Singapore",
+      "topic": "응집 유도 발광체(AIEgen) 혁신을 통한 바이오메디컬 연구 가속"
+    },
+    {
+      "name": "Tien Yin Wong",
+      "affiliation": "Tsinghua University / SingHealth / Singapore National Eye Centre",
+      "topic": "AI와 의학의 상호 진화"
+    },
+    {
+      "name": "Hairong Zheng",
+      "affiliation": "Nanjing University / Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",
+      "topic": "비침습 초음파 뇌-컴퓨터 인터페이스"
+    }
+  ],
+  "keynotesNote": "Plenary 연사 6명 공개, 추가 연사 발표 예정. 주제는 한국어 요약.",
+  "paperProcess": [
+    "본논문·워크숍·미니심포지엄 제안 마감 2027-01-24",
+    "본논문 채택 통보 2027-04-16 · 최종본 2027-04-30",
+    "1쪽 Research Poster 마감 2027-04-23 · 채택 통보 2027-05-07 · 최종본 2027-05-16",
+    "워크숍·미니심포지엄 통보 2027-02-28 · 정보 제출 2027-03-31",
+    "등록 시스템 2027년 3월 오픈 예정 · 등록 마감 미공개"
+  ],
+  "sources": [
+    "https://embc.embs.org/2027/",
+    "https://embc.embs.org/2027/important-dates/",
+    "https://embc.embs.org/2027/plenary-speakers/"
+  ],
+  "tags": [
+    "의료로봇",
+    "국제",
+    "IEEE",
+    "바이오"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "acronym": "Transducers",
+  "fullname": "Int. Conf. on Solid-State Sensors, Actuators and Microsystems (2027, 24th)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 12,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=ACTUATOR"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-센서·소자",
+  "start": "2027-06-20",
+  "end": "2027-06-24",
+  "dates": "2027.06.20 – 06.24",
+  "location": "Stockholm, Sweden (Stockholm Waterfront)",
+  "registration": "등록 미오픈 · 초록 마감 2026.12.08",
+  "website": "https://transducers-eurosensors2027.org/",
+  "notes": "MEMS·센서·마이크로시스템 최상위(격년·홀수년). 2027은 EUROSENSORS XXXIX와 공동 개최. 공식 홈페이지 제목과 본문 모두 6/20–24로 일치.",
+  "keynotes": [
+    {
+      "name": "Daoxin Dai",
+      "affiliation": "Zhejiang University / China Jiliang University, China",
+      "topic": "Switchable Silicon Photonics with Extremely Low Power Consumption"
+    },
+    {
+      "name": "Shana Kelley",
+      "affiliation": "Chan Zuckerberg Biohub Chicago / Northwestern University, USA",
+      "topic": "Biology in Real Time: Sensing and Profiling Living Systems"
+    },
+    {
+      "name": "Lieven Vandersypen",
+      "affiliation": "TU Delft, Netherlands",
+      "topic": "A Vision for a Semiconductor Quantum Processor"
+    }
+  ],
+  "keynotesNote": "Plenary 연사 3명과 발표 주제 공개. 주제는 공식 발표 제목.",
+  "paperProcess": [
+    "초록 PDF 마감 2026-12-08 (23:59 HST)",
+    "채택 통보 2027-02-15",
+    "저자 수락 회신 2027-02-23",
+    "최종 논문 마감 2027-04-13 (23:59 HST)"
+  ],
+  "sources": [
+    "https://transducers-eurosensors2027.org/",
+    "https://transducers-eurosensors2027.org/authors/deadlines.html",
+    "https://transducers-eurosensors2027.org/program/speakers.html",
+    "https://transducers-eurosensors2027.org/attendees/registration.html"
+  ],
+  "tags": [
+    "센서",
+    "MEMS",
+    "국제",
+    "톱티어"
+  ]
+}

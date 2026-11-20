@@ -1,0 +1,82 @@
+{
+  "acronym": "HAPTICS",
+  "fullname": "IEEE Haptics Symposium (2026)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 17,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Haptics%20Symposium"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": "2026-03-29",
+  "end": "2026-04-01",
+  "dates": "2026.03.29 – 04.01",
+  "location": "Reno, NV, USA",
+  "registration": "얼리버드·저자 등록 마감 2026.02.16 (종료)",
+  "regDeadline": "2026-02-16",
+  "website": "https://2026.hapticssymposium.org/",
+  "notes": "WHC와 격년 교차 개최되는 북미 핵심 햅틱 학회.",
+  "keynotes": [
+    {
+      "name": "Ed Colgate",
+      "affiliation": "Northwestern University",
+      "topic": "CCC Session 1: Robot Manipulation"
+    },
+    {
+      "name": "Pulkit Agrawal",
+      "affiliation": "MIT",
+      "topic": "CCC Session 1: Robot Manipulation"
+    },
+    {
+      "name": "Jeremy Fishel",
+      "affiliation": "Sanctuary AI",
+      "topic": "CCC Session 1: Robot Manipulation"
+    },
+    {
+      "name": "Mike Lambeta",
+      "affiliation": "Meta",
+      "topic": "CCC Session 1: Robot Manipulation"
+    },
+    {
+      "name": "Mar González-Franco",
+      "affiliation": "Google",
+      "topic": "CCC Session 2: Touch & Embodiment"
+    },
+    {
+      "name": "Hasti Seifi",
+      "affiliation": "Arizona State University",
+      "topic": "CCC Session 2: Touch & Embodiment"
+    }
+  ],
+  "keynotesNote": "단독 기조강연 대신 주제별 Cross-Cutting Challenges(CCC) 세션에 초청 연사를 배치.",
+  "program": [
+    "투고 카테고리: Long/Regular Papers, Work-in-Progress, Hands-on Demonstrations, ToH 발표, Cross-Cutting Challenges",
+    "일요일: 두 개 CCC 트랙(Robot Manipulation; Touch & Embodiment) — 초청강연·포스터·패널·환영연",
+    "월–수: 햅틱 센싱·지각·렌더링·응용 병렬 구두 세션",
+    "Hands-on 데모 및 포스터 세션 상시",
+    "수요일 폐막 시상식"
+  ],
+  "paperProcess": [
+    "Long/Regular Papers 마감 2025-10-13",
+    "Work-in-Progress·Hands-on Demos 마감 2026-01-26",
+    "Transactions on Haptics(ToH) 발표 신청 2026-01-31",
+    "얼리버드 등록 마감 2026-02-16"
+  ],
+  "sources": [
+    "https://2026.hapticssymposium.org/",
+    "https://2026.hapticssymposium.org/program/overview/",
+    "https://2026.hapticssymposium.org/presenting/",
+    "https://about.hapticssymposium.org/"
+  ],
+  "tags": [
+    "햅틱",
+    "국제",
+    "IEEE"
+  ]
+}

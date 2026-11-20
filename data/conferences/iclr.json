@@ -1,0 +1,62 @@
+{
+  "acronym": "ICLR",
+  "fullname": "International Conference on Learning Representations (2027, 15th)",
+  "kiise": "최우수",
+  "bk21": null,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "International Conference on Learning Representations"
+    }
+  ],
+  "csrankings": true,
+  "scholarTop20": "Artificial Intelligence",
+  "core": "A*",
+  "h5": 362,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=ICLR&by=acronym&source=ICORE2026",
+    "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence",
+    "https://csrankings.org/"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-AI·비전",
+  "start": "2027-04-26",
+  "end": "2027-04-30",
+  "dates": "2027.04.26 – 04.30",
+  "location": "California",
+  "registration": "등록 마감 미공개",
+  "regDeadline": null,
+  "abstractDeadline": "2026-09-18",
+  "paperDeadline": "2026-09-25",
+  "timezone": "AoE",
+  "website": "https://iclr.cc/Conferences/2027",
+  "notes": "표현학습·강화학습과 로봇·자율·계획 응용이 공식 CFP 범위에 포함된다. 공식 메인은 California와 기간만 명시하며 도시·행사장은 미공개다. 사진의 장소를 확정 개최지로 옮기지 않음.",
+  "keynotes": [],
+  "keynotesNote": "차기 개최판 연사 미확인",
+  "program": [
+    "초청 강연·구두·포스터 발표",
+    "마지막 이틀 워크숍"
+  ],
+  "paperProcess": [
+    "초록 제출 마감 2026-09-18 (AoE)",
+    "논문 제출 마감 2026-09-25 (AoE)",
+    "리뷰 공개 2026-11-05 · 저자·리뷰어 토론 종료 2026-11-18",
+    "채택 통보 2026-12-16",
+    "최종본·저자등록 마감 미공개"
+  ],
+  "sources": [
+    "https://iclr.cc/Conferences/2027",
+    "https://iclr.cc/Conferences/2027/CallForPapers"
+  ],
+  "tags": [
+    "로봇",
+    "학습",
+    "강화학습",
+    "확인필요",
+    "국제"
+  ]
+}

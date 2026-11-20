@@ -1,0 +1,57 @@
+{
+  "acronym": "CASE",
+  "fullname": "IEEE Int. Conf. on Automation Science and Engineering (2027, 23rd)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 30,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Automation%20Science%20Engineering"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-08-23",
+  "end": "2027-08-27",
+  "dates": "2027.08.23 – 08.27",
+  "location": "Linz, Austria (세부 장소 미공개)",
+  "registration": "등록 미공개 · 논문 마감 2027.03.01 · 저자 등록 2027.06.15",
+  "website": "https://2027.ieeecase.org/",
+  "notes": "IEEE-RAS 자동화 플래그십. 2028 시카고 개최는 확정, 날짜는 RAS archive(8/16–20)와 event listing(8/13–17)이 달라 미정 유지.",
+  "keynotes": [],
+  "keynotesNote": "2027 연사 미발표",
+  "program": [
+    "세부 프로그램 미발표"
+  ],
+  "paperProcess": [
+    "Special Session 제안 2027-01-15 · 통보 2027-01-30",
+    "Regular·Special Session 논문 마감 2027-03-01",
+    "Workshop·Tutorial 제안, Industry·Work-in-Progress 논문 마감 2027-04-01",
+    "RA-L·T-RO·RAM·RAP·T-ASE 발표 전용 제출 2027-04-30",
+    "채택 통보 2027-05-15",
+    "최종본 마감·저자 등록 2027-06-15"
+  ],
+  "sources": [
+    "https://2027.ieeecase.org/key-dates/",
+    "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case/past-and-future-venues/",
+    "https://www.ieee-ras.org/events/category/important-dates/deadlines/list/",
+    "https://www.ieee-ras.org/events/page/5/"
+  ],
+  "future": [
+    {
+      "year": 2028,
+      "location": "Chicago, IL, USA",
+      "dates": null,
+      "confidence": "confirmed",
+      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case/past-and-future-venues/"
+    }
+  ],
+  "tags": [
+    "자동화",
+    "국제",
+    "IEEE"
+  ]
+}

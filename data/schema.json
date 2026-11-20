@@ -1,0 +1,389 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://confcal.example/schema.json",
+  "title": "confcal 학회",
+  "description": "공식 출처만 사용. 날짜·시간대 추정 금지. HTML 금지. 개최일 순서·약칭 중복·장소 별칭·평판 출처는 추가 의미 검사한다.",
+  "type": "object",
+  "required": [
+    "acronym",
+    "fullname",
+    "category",
+    "start",
+    "end",
+    "dates",
+    "location",
+    "registration",
+    "website",
+    "notes",
+    "tags",
+    "sources"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "acronym": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S",
+      "description": "중복 없는 약칭. 파일 ID는 변경하지 않는다."
+    },
+    "fullname": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S",
+      "description": "연도를 포함한 공식 명칭"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "국제-로봇",
+        "국제-햅틱HCI",
+        "국내",
+        "국제-센서·소자",
+        "국제-AI·비전",
+        "국제-그래픽스",
+        "국제-의료·재활"
+      ],
+      "description": "category (미확인 값은 null 또는 빈 배열)"
+    },
+    "start": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "description": "개최 시작일"
+    },
+    "end": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "description": "개최 종료일"
+    },
+    "regDeadline": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "description": "regDeadline (미확인 값은 null 또는 빈 배열)"
+    },
+    "abstractDeadline": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "description": "abstractDeadline (미확인 값은 null 또는 빈 배열)"
+    },
+    "paperDeadline": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "description": "paperDeadline (미확인 값은 null 또는 빈 배열)"
+    },
+    "repAsOf": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "description": "repAsOf (미확인 값은 null 또는 빈 배열)"
+    },
+    "dates": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "공식 표시 기간"
+    },
+    "location": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "공식 개최지"
+    },
+    "registration": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "등록 설명"
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "조건·미확인 사항"
+    },
+    "keynotesNote": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "keynotesNote (미확인 값은 null 또는 빈 배열)"
+    },
+    "scholarTop20": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "scholarTop20 (미확인 값은 null 또는 빈 배열)"
+    },
+    "timezone": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "timezone (미확인 값은 null 또는 빈 배열)"
+    },
+    "website": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "uri",
+      "pattern": "^https://[^\\s<>\\u0000-\\u001f\\u007f]+$",
+      "description": "website (미확인 값은 null 또는 빈 배열)"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "분야 키워드. 우산 태그는 $defs.umbrellaTag.enum 참조; 세부 태그는 assets/filters.js TAG_MAP으로 연결한다."
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://[^\\s<>\\u0000-\\u001f\\u007f]+$"
+      },
+      "description": "확인한 공식 HTTPS 출처"
+    },
+    "repSources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://[^\\s<>\\u0000-\\u001f\\u007f]+$"
+      },
+      "description": "repSources (미확인 값은 null 또는 빈 배열)"
+    },
+    "program": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "program (미확인 값은 null 또는 빈 배열)"
+    },
+    "paperProcess": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "행동 YYYY-MM-DD; 범위 종료일을 마감으로 사용. 절은 · 또는 세미콜론으로 구분."
+    },
+    "csrankings": {
+      "enum": [
+        true,
+        null
+      ],
+      "description": "csrankings (미확인 값은 null 또는 빈 배열)"
+    },
+    "bk21": {
+      "enum": [
+        true,
+        null
+      ],
+      "description": "bk21 (미확인 값은 null 또는 빈 배열)"
+    },
+    "kiise": {
+      "enum": [
+        "최우수",
+        "우수",
+        null
+      ],
+      "description": "kiise (미확인 값은 null 또는 빈 배열)"
+    },
+    "core": {
+      "enum": [
+        "A*",
+        "A",
+        "B",
+        "C",
+        null
+      ],
+      "description": "core (미확인 값은 null 또는 빈 배열)"
+    },
+    "h5": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "description": "h5 (미확인 값은 null 또는 빈 배열)"
+    },
+    "keynotes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "affiliation": {
+            "type": "string"
+          },
+          "topic": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "affiliation",
+          "topic"
+        ],
+        "additionalProperties": false
+      },
+      "description": "keynotes (미확인 값은 null 또는 빈 배열)"
+    },
+    "future": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "year": {
+            "type": "integer",
+            "minimum": 2000,
+            "maximum": 2100
+          },
+          "location": {
+            "type": "string"
+          },
+          "dates": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "YYYY.MM.DD – MM.DD 또는 null; 해넘김 추정 금지"
+          },
+          "confidence": {
+            "enum": [
+              "confirmed",
+              "tentative"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri",
+            "pattern": "^https://[^\\s<>\\u0000-\\u001f\\u007f]+$",
+            "description": "website (미확인 값은 null 또는 빈 배열)"
+          }
+        },
+        "required": [
+          "year",
+          "location",
+          "dates",
+          "confidence",
+          "source"
+        ],
+        "additionalProperties": false
+      },
+      "description": "future (미확인 값은 null 또는 빈 배열)"
+    },
+    "excellentSources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "list": {
+            "enum": [
+              "kiise",
+              "bk21"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://[^\\s<>\\u0000-\\u001f\\u007f]+$"
+          },
+          "document": {
+            "type": "string"
+          },
+          "year": {
+            "type": "integer"
+          },
+          "identity": {
+            "type": "string"
+          },
+          "row": {
+            "type": "string"
+          },
+          "page": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "list",
+          "url",
+          "document",
+          "year",
+          "identity"
+        ],
+        "additionalProperties": false
+      },
+      "description": "excellentSources (미확인 값은 null 또는 빈 배열)"
+    },
+    "acceptRate": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "value": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "maximum": 100
+        },
+        "year": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "value",
+        "year"
+      ],
+      "additionalProperties": false,
+      "description": "acceptRate (미확인 값은 null 또는 빈 배열)"
+    }
+  },
+  "$defs": {
+    "umbrellaTag": {
+      "type": "string",
+      "enum": [
+        "로봇",
+        "메카트로닉스",
+        "햅틱",
+        "HCI",
+        "센서",
+        "의료·재활",
+        "톱티어",
+        "확인필요",
+        "AI·학습",
+        "비전",
+        "그래픽스",
+        "시스템·네트워크"
+      ]
+    }
+  }
+}

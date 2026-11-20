@@ -1,0 +1,42 @@
+{
+  "acronym": "CogSci",
+  "fullname": "Annual Meeting of the Cognitive Science Society",
+  "kiise": null,
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "Annual Meeting of the Cognitive Science Society",
+      "row": "BKCSA084",
+      "page": 4
+    }
+  ],
+  "category": "국제-햅틱HCI",
+  "start": "2027-07-28",
+  "end": "2027-07-31",
+  "dates": "2027.07.28 – 2027.07.31",
+  "location": "Bilbao, Spain",
+  "registration": "미공개",
+  "website": "https://cognitivesciencesociety.org/cogsci-2027/",
+  "notes": "공식 목록 등재 확인. 등록·제출 마감은 미확인.",
+  "tags": [
+    "HCI"
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": null,
+  "sources": [
+    "https://cognitivesciencesociety.org/cogsci-2027/"
+  ],
+  "future": [],
+  "keynotes": [],
+  "program": [],
+  "paperProcess": []
+}

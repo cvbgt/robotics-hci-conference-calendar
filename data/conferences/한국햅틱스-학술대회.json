@@ -1,0 +1,52 @@
+{
+  "acronym": "한국햅틱스 학술대회",
+  "fullname": "제4회 한국햅틱스 학술대회 (한국햅틱스학회)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국내",
+  "start": "2026-08-10",
+  "end": "2026-08-14",
+  "dates": "2026.08.10 – 08.14 (8/14 연구교류·투어 포함)",
+  "location": "풀만 앰배서더 서울 이스트폴 & 건국대학교",
+  "registration": "사전등록 마감 2026.07.31 · 워크샵/논문 마감 07.10",
+  "regDeadline": "2026-07-31",
+  "website": "https://www.haptics.or.kr/conference/2026/home.php",
+  "notes": "주제 '촉각 지능과 피지컬 AI'. 메인 배너는 8/10–13이나 본문·프로그램은 8/14 연구교류·투어까지 안내. 다음 회차 미발표.",
+  "keynotes": [
+    {
+      "name": "김정",
+      "affiliation": "KAIST",
+      "topic": "로봇 햅틱스: 네 번째 차원"
+    },
+    {
+      "name": "박동일",
+      "affiliation": "한국기계연구원",
+      "topic": "섬세 조작에서 휴머노이드까지: 통합 Physical AI 시스템"
+    },
+    {
+      "name": "김형석",
+      "affiliation": "건국대학교",
+      "topic": "확장 환경에서의 경험: 현실·가상 경험의 의미 통합"
+    }
+  ],
+  "paperProcess": [
+    "워크샵·논문 제출기한 2026-07-10",
+    "사전등록 마감 2026-07-31"
+  ],
+  "sources": [
+    "https://www.haptics.or.kr/conference/2026/home.php",
+    "https://www.haptics.or.kr/conference/2026/program.php"
+  ],
+  "tags": [
+    "햅틱",
+    "국내"
+  ]
+}

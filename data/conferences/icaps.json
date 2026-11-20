@@ -1,0 +1,42 @@
+{
+  "acronym": "ICAPS",
+  "fullname": "International Conference on Automated Planning and Scheduling",
+  "kiise": null,
+  "bk21": true,
+  "excellentSources": [
+    {
+      "list": "bk21",
+      "url": "https://www.kiise.or.kr/TopConferences/data/BK21플러스사업_CS분야_우수국제학술대회목록_2018.pdf",
+      "document": "BK21 플러스 사업 Computer Science 분야 우수국제학술대회 목록 개선 결과 및 적용 기준",
+      "year": 2018,
+      "identity": "International Conference on Automated Planning and Scheduling",
+      "row": "BKCSA173",
+      "page": 7
+    }
+  ],
+  "category": "국제-AI·비전",
+  "start": "2027-06-27",
+  "end": "2027-07-02",
+  "dates": "2027.06.27 – 2027.07.02",
+  "location": "Columbia, USA",
+  "registration": "미공개",
+  "website": "https://www.icaps-conference.org/",
+  "notes": "공식 목록 등재 확인. 등록·제출 마감은 미확인.",
+  "tags": [
+    "AI·학습"
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": null,
+  "sources": [
+    "https://www.icaps-conference.org/"
+  ],
+  "future": [],
+  "keynotes": [],
+  "program": [],
+  "paperProcess": []
+}

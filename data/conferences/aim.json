@@ -1,0 +1,41 @@
+{
+  "acronym": "AIM",
+  "fullname": "IEEE/ASME Int. Conf. on Advanced Intelligent Mechatronics (2027)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 20,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Advanced%20Intelligent%20Mechatronics"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-06-29",
+  "end": "2027-07-02",
+  "dates": "2027.06.29 – 07.02",
+  "location": "Calgary, Canada (세부 장소 미공개)",
+  "registration": "등록 미공개 · 논문 마감 2027.01.26 (잠정 CFP)",
+  "website": "https://aim2027.com/",
+  "notes": "메카트로닉스 대표 학회. 2027 공식 CFP 기준 개최일 변경; 투고·심사 일정은 잠정.",
+  "paperProcess": [
+    "아래 투고·심사 일정은 공식 CFP의 잠정 일정",
+    "TMECH/AIM Focused Section 2026-12-23",
+    "Invited/Workshop/Special Session 제안 2027-01-21",
+    "정규·초청 논문 및 TMECH Presentation Only 2027-01-26 (PaperCept)",
+    "TMECH/AIM 1차 결정 2027-02-22 · 수정본 2027-03-20",
+    "최종 채택 2027-04-23 · 최종본 2027-05-03 · Late-Breaking 2027-05-09"
+  ],
+  "sources": [
+    "https://aim2027.com/",
+    "https://aim2027.com/wp-content/uploads/2026/09/AIM2027_CFP_V2.pdf"
+  ],
+  "tags": [
+    "메카트로닉스",
+    "국제",
+    "IEEE"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "acronym": "KSPE",
+  "fullname": "한국정밀공학회 2026 추계학술대회 (KSPE)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국내",
+  "start": "2026-12-02",
+  "end": null,
+  "dates": "2026.12.02 – 종료일 확인필요 (행사 페이지 12.05 / 학회 목록 12.04)",
+  "location": "창원 CECO (경남 창원시 성산구 원이대로 362)",
+  "registration": "일반 구두 초록 접수 종료 · 포스터·포커스세션 초록 추가 연장 2026.10.26 24시 · 사전등록 11.02 24시 · 확장형 초록 11.06",
+  "regDeadline": "2026-11-02",
+  "website": "https://www.kspe.or.kr/event/index.html?event=50",
+  "notes": "행사 홈페이지·대회개요는 12/2–5, 학회 목록은 12/2–4로 종료일 불일치. 전체시간표 V2(안)에는 12/2–4 일정만 표시. 종료일 확인필요 유지.",
+  "keynotes": [
+    {
+      "name": "조규진",
+      "affiliation": "서울대학교",
+      "topic": "피지컬 AI와 로보틱스 플라이휠 (12/3 10:30–11:20)"
+    },
+    {
+      "name": "이원균",
+      "affiliation": "충남대학교",
+      "topic": "정밀가공 — 절삭가공공정 디지털트윈: 구축부터 진화와 활용까지"
+    },
+    {
+      "name": "조정산",
+      "affiliation": "한국생산기술연구원",
+      "topic": "로봇제어자동화 — 피지컬 AI 시대: Re-Hardware"
+    },
+    {
+      "name": "이승철",
+      "affiliation": "KAIST",
+      "topic": "스마트생산시스템 — 스마트 제조, Physics-informed AI와 Agentic AI로 다시 묻다"
+    },
+    {
+      "name": "전태성",
+      "affiliation": "인천대학교",
+      "topic": "설계 및 재료 — 항공엔진의 안전한 설계 및 제조를 위한 Dwell Fatigue의 이해"
+    },
+    {
+      "name": "조영태",
+      "affiliation": "국립창원대학교",
+      "topic": "나노마이크로기술 — 3D Slippery Architectures and Micro/Nano Fabrication"
+    },
+    {
+      "name": "조영삼",
+      "affiliation": "원광대학교",
+      "topic": "바이오헬스 — 스캐폴드 설계와 다세포 모델을 통한 골재생 및 골 리모델링의 공학적 구현"
+    },
+    {
+      "name": "박근",
+      "affiliation": "서울과학기술대학교",
+      "topic": "적층제조시스템 — 3D/4D프린팅을 활용한 기계적 메타물질 개발 사례"
+    },
+    {
+      "name": "김영범",
+      "affiliation": "한양대학교",
+      "topic": "녹색생산기술 — 극단파 광 열처리 기술을 이용한 에너지 변환 및 저장 장치 연구"
+    }
+  ],
+  "keynotesNote": "Plenary 1명과 부문별 Keynote 8명·발표 주제 공개. 공식 전체시간표 V2(안)는 변경 가능.",
+  "paperProcess": [
+    "필수 초록(150–200단어) 온라인 제출: 일반 구두 마감 2026-10-19 24시 (종료)",
+    "일반 포스터·포커스세션 초록 추가 연장 마감 2026-10-26 24시",
+    "초록 채택 통지 2026-10-21부터 발송",
+    "발표자·일반참가자 사전등록 연장 마감 2026-11-02 24시",
+    "선택 확장형 초록(2쪽, 공식 양식) 마감 2026-11-06",
+    "학술대회 발표 후 JKSPE 연계 Full Paper 투고 기한 2027-02-28 (심사 후 게재 확정 시 게재료 면제)"
+  ],
+  "sources": [
+    "https://www.kspe.or.kr/event/index.html?event=50",
+    "https://www.kspe.or.kr/event/info/index.html?sgubun=2&gubun=1&event=50",
+    "https://www.kspe.or.kr/symposium/index.html?gubun=2",
+    "https://www.kspe.or.kr/event/regist/index.html?sgubun=1&gubun=3&event=50",
+    "https://www.kspe.or.kr/event/info/index.html?sgubun=3&gubun=1&event=50",
+    "https://www.kspe.or.kr/event/info/index.html?sgubun=4&gubun=1&event=50",
+    "https://www.kspe.or.kr/event/images/2026f_program.pdf",
+    "https://www.kspe.or.kr/board/index.html?menu_main=7&menu_sub=55&uid=17594&gubun=1&actmode=view"
+  ],
+  "future": [
+    {
+      "year": 2027,
+      "location": "제주 쉐라톤 (춘계)",
+      "dates": "2027.05.19 – 05.22",
+      "confidence": "confirmed",
+      "source": "https://www.kspe.or.kr/board/index.html?menu_main=7&menu_sub=55&uid=17594&gubun=1&actmode=view"
+    },
+    {
+      "year": 2027,
+      "location": "강릉컨벤션센터 (추계)",
+      "dates": "2027.11.10 – 11.13",
+      "confidence": "confirmed",
+      "source": "https://www.kspe.or.kr/board/index.html?menu_main=7&menu_sub=55&uid=17594&gubun=1&actmode=view"
+    }
+  ],
+  "tags": [
+    "정밀공학",
+    "국내",
+    "확인필요"
+  ]
+}

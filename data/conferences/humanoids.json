@@ -1,0 +1,79 @@
+{
+  "acronym": "Humanoids",
+  "fullname": "IEEE-RAS Int. Conf. on Humanoid Robots (2026, 25th)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 22,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Humanoid%20Robots"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2026-12-06",
+  "end": "2026-12-09",
+  "dates": "2026.12.06 – 12.09",
+  "location": "Santa Clara, CA, USA (Santa Clara Convention Center)",
+  "registration": "얼리버드 종료 · 일반(온라인) 등록 마감 2026.12.04 · 현장등록 12.05–12.09",
+  "regDeadline": "2026-12-04",
+  "website": "https://2026.ieee-humanoids.org/",
+  "notes": "25주년. 휴머노이드 대표 학회. 얼리버드 마감은 공식 페이지 간 10/20(배너·CFP)과 10/26(등록 페이지)로 불일치하나 모두 지남. NIST와 Loco-Manipulation Challenge(12/6–9) 운영.",
+  "keynotes": [
+    {
+      "name": "RJ Scaringe",
+      "affiliation": "Rivian 창업자·CEO / Mind Robotics 창업자 / ALSO 공동창업자",
+      "topic": ""
+    },
+    {
+      "name": "Jerry Pratt",
+      "affiliation": "Persona AI (CTO)",
+      "topic": ""
+    },
+    {
+      "name": "Moritz Bächer",
+      "affiliation": "Disney Research (Robotics Lab Director)",
+      "topic": ""
+    },
+    {
+      "name": "Rong Xiong",
+      "affiliation": "Zhejiang University",
+      "topic": ""
+    }
+  ],
+  "keynotesNote": "키노트 연사 4명 공개. 발표 주제는 미공개.",
+  "program": [
+    "12/6: 공개 포럼(public forums)",
+    "12/7: 워크숍·튜토리얼",
+    "12/8–9: 본 학회 — 구두 및 인터랙티브(포스터) 발표",
+    "Plenary·키노트 포함",
+    "Loco-Manipulation Challenge (NIST 공동, 12/6–9)",
+    "워크숍·튜토리얼·경진대회 투고 카테고리 운영",
+    "주제: 휴머노이드 설계/모델링/제어, 전신 보행, 학습·AI, HRI, 웨어러블, 실응용"
+  ],
+  "paperProcess": [
+    "논문 마감 2026-07-27 (11:59pm PT)",
+    "보충 영상(선택) 마감 2026-07-30 (PT)",
+    "워크숍/튜토리얼·경진대회 제안 마감 2026-08-03 · 경진대회 통보 2026-09-21 · 워크숍/튜토리얼 통보 2026-09-28",
+    "동료 심사(peer review)",
+    "채택/거절 통보 2026-10-06",
+    "최종본 마감 2026-10-26 · 채택 저자·워크숍 주최자 등록 2026-10-26",
+    "경진대회 참가 신청 2026-10-31",
+    "일반(온라인) 등록 마감 2026-12-04 · 이후 현장등록"
+  ],
+  "sources": [
+    "https://2026.ieee-humanoids.org/",
+    "https://2026.ieee-humanoids.org/call-for-papers/",
+    "https://2026.ieee-humanoids.org/registration/",
+    "https://www.ieee-ras.org/event/2026-ieee-ras-25th-international-conference-on-humanoid-robots-humanoids-68892/"
+  ],
+  "tags": [
+    "로봇",
+    "국제",
+    "IEEE",
+    "휴머노이드"
+  ]
+}

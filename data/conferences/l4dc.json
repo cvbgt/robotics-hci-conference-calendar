@@ -1,0 +1,66 @@
+{
+  "acronym": "L4DC",
+  "fullname": "Learning for Dynamics & Control Conference (2027, 9th)",
+  "csrankings": null,
+  "scholarTop20": "Automation & Control Theory",
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": 49,
+  "acceptRate": null,
+  "repSources": [
+    "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_automationcontroltheory"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-06-16",
+  "end": "2027-06-18",
+  "dates": "2027.06.16 – 06.18",
+  "location": "Stockholm, Sweden (KTH Royal Institute of Technology)",
+  "registration": "등록 미공개 · 논문 마감 2026.11.13 종료",
+  "website": "https://l4dc2027.control.ee.ethz.ch/",
+  "notes": "학습 기반 동역학·제어 이론 학회 — 로봇 학습 정책의 안정성·제어 관점 연구에 직결.",
+  "keynotes": [
+    {
+      "name": "Francis Bach",
+      "affiliation": "INRIA",
+      "topic": ""
+    },
+    {
+      "name": "Alexandre Proutière",
+      "affiliation": "KTH",
+      "topic": ""
+    },
+    {
+      "name": "Aude Billard",
+      "affiliation": "EPFL",
+      "topic": ""
+    },
+    {
+      "name": "Stefano Soatto",
+      "affiliation": "UCLA",
+      "topic": ""
+    }
+  ],
+  "keynotesNote": "키노트 4명 공개 · 발표 주제 미공개",
+  "program": [
+    "단일 트랙 논문 발표·포스터·키노트",
+    "Late-breaking results 세션 · 세부 프로그램 미발표"
+  ],
+  "paperProcess": [
+    "논문 마감 2026-11-13 (연장 없음 공지)",
+    "채택 통보 2027-01-25",
+    "Late-breaking results 마감 2027-04-05",
+    "최종본 2027-04-19"
+  ],
+  "sources": [
+    "https://l4dc2027.control.ee.ethz.ch/"
+  ],
+  "tags": [
+    "로봇",
+    "학습",
+    "제어",
+    "국제"
+  ]
+}

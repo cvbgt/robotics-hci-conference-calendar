@@ -1,0 +1,36 @@
+{
+  "acronym": "센서학회 추계",
+  "fullname": "2026년 한국센서학회 추계학술대회",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국내",
+  "start": "2026-09-16",
+  "end": "2026-09-18",
+  "dates": "2026.09.16 – 09.18",
+  "location": "여수 디오션리조트",
+  "registration": "사전등록 마감 2026.09.07",
+  "regDeadline": "2026-09-07",
+  "website": "https://sensors.or.kr/conference/sensor26f",
+  "notes": "2026 추계 개최 확인. 다음 추계 회차 미발표.",
+  "paperProcess": [
+    "학회 홈페이지 로그인 후 Poster·Young Scientist Forum·Oral 발표 신청",
+    "초록집 게재를 위해 모든 발표자 사전등록 필수 (마감 2026-09-07)"
+  ],
+  "sources": [
+    "https://sensors.or.kr/conference/sensor26f",
+    "https://sensors.or.kr/conference/sensor26f/static/642",
+    "https://sensors.or.kr/conference/sensor26f/static/643"
+  ],
+  "tags": [
+    "센서",
+    "국내"
+  ]
+}

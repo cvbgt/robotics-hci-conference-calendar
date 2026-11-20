@@ -1,0 +1,53 @@
+{
+  "acronym": "HCI Korea",
+  "fullname": "한국HCI학회 학술대회 (HCI KOREA 2027)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": "2026-11-20",
+  "category": "국내",
+  "start": "2027-01-27",
+  "end": "2027-01-29",
+  "dates": "2027.01.27 – 01.29",
+  "location": "소노벨 비발디파크 컨벤션센터",
+  "registration": "사전등록 12월 1일 시작 · 마감 2027.01.20(수) — 학회 공지로 확인 · 논문 마감 2026.11.23 (자정)",
+  "regDeadline": "2027-01-20",
+  "website": "https://conference.hcikorea.org/hcik2027/",
+  "notes": "국내 HCI 최대 학회. 논문·프로그램 접수 일정 공개. 2026-11-19 재대조: 사전등록 마감은 학회 공지의 2027.01.20(수)로 확정 — 대회 메인의 2028.01.20(수)는 요일상 오기이고, 등록 페이지 환불 규정(2027.01.19까지 전액·01.25까지 50%)도 2027년 기준.",
+  "keynotes": [
+    {
+      "name": "Bilge Mutlu",
+      "affiliation": "University of Wisconsin–Madison",
+      "topic": ""
+    },
+    {
+      "name": "김경일",
+      "affiliation": "아주대학교 심리학과 교수",
+      "topic": ""
+    }
+  ],
+  "keynotesNote": "키노트 연사 2명 공개. 발표 주제·일시는 협의 중.",
+  "paperProcess": [
+    "논문 접수 마감 2026-11-23 (자정) · 심사 결과 발표 2026-12-23 · 최종 논문 제출 마감 2026-12-31",
+    "사례 발표·패널 토의·워크숍·튜토리얼 접수 마감 2026-11-23",
+    "Creative Award·박사 컨소시엄 접수 마감 2026-12-26",
+    "논문 발표자도 사전등록 필요 · 사전등록 마감은 학회 공지(2026-11 일정 안내)에 명시 · 2027-01-19까지 취소 시 전액 환불"
+  ],
+  "sources": [
+    "https://hcikorea.org/board/maininfo/article/284491",
+    "https://hcikorea.org/board/maininfo/article/288095",
+    "https://conference.hcikorea.org/hcik2027/main/main.asp",
+    "https://conference.hcikorea.org/hcik2027/order/pre_order.asp",
+    "https://conference.hcikorea.org/hcik2027/summary/keynote.asp"
+  ],
+  "tags": [
+    "HCI",
+    "국내"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "acronym": "RO-MAN",
+  "fullname": "IEEE Int. Conf. on Robot & Human Interactive Communication (2027, 36th)",
+  "csrankings": null,
+  "scholarTop20": null,
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "core": "B",
+  "h5": 34,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=RO-MAN&by=acronym&source=ICORE2026",
+    "https://scholar.google.com/citations?view_op=search_venues&hl=en&vq=Humanoid%20Robots"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-로봇",
+  "start": "2027-08-23",
+  "end": "2027-08-27",
+  "dates": "2027.08.23 – 08.27",
+  "location": "Waterloo, Ontario, Canada (University of Waterloo)",
+  "registration": "등록 미공개 · 논문 마감 Mar 5 (공식 사이트 연도 미표기)",
+  "website": "https://ro-man2027.ca/",
+  "notes": "인간-로봇 상호작용(HRI) 커뮤니케이션 학회. 2027 테마: Ethical, Affective, and Transparent HRI Across Cultures (하이브리드).",
+  "paperProcess": [
+    "공식 사이트 일정은 연도·시간대 미표기 (2027 개최 회차 페이지)",
+    "Special Session 제안 Jan 15 · 통보 Feb 1",
+    "Workshops & Tutorial 제안 Feb 1 · 통보 Mar 1",
+    "Regular & Special Session 논문 마감 Mar 5 (연장 없음) · 통보 May 7",
+    "Late Breaking Reports 마감 Jun 1 · 통보 Jun 20"
+  ],
+  "sources": [
+    "https://ro-man2027.ca/",
+    "https://ro-man.org/",
+    "https://www.ieee-ras.org/venue/university-of-waterloo-waterloo-on-canada/"
+  ],
+  "tags": [
+    "로봇",
+    "HRI",
+    "국제",
+    "IEEE"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "acronym": "DIS",
+  "fullname": "ACM Designing Interactive Systems Conference (2027)",
+  "kiise": null,
+  "bk21": null,
+  "excellentSources": [],
+  "csrankings": null,
+  "scholarTop20": "Human Computer Interaction",
+  "core": "A",
+  "h5": 54,
+  "acceptRate": null,
+  "repSources": [
+    "https://portal.core.edu.au/conf-ranks/?search=DIS&by=acronym&source=ICORE2026",
+    "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_humancomputerinteraction"
+  ],
+  "repAsOf": "2026-11-20",
+  "category": "국제-햅틱HCI",
+  "start": "2027-06-28",
+  "end": "2027-07-02",
+  "dates": "2027.06.28 – 07.02",
+  "location": "Stockholm, Sweden (KTH)",
+  "registration": "등록 마감 미공개",
+  "regDeadline": null,
+  "abstractDeadline": "2027-01-11",
+  "paperDeadline": "2027-01-18",
+  "timezone": "AoE",
+  "website": "https://dis.acm.org/2027/",
+  "notes": "감각·신체 경험과 인터랙션 설계 연구를 연결하는 관련 학회. 공인 두 목록의 등재를 확인하지 못했지만 CORE A와 Scholar HCI 상위 20으로 판정한다.",
+  "keynotes": [],
+  "keynotesNote": "차기 개최판 연사 미확인",
+  "program": [
+    "주제: Sensuous Knowing – Sensuous Designing",
+    "온라인 발표 2027.06.21–06.25 · 대면 학회 2027.06.28–07.02"
+  ],
+  "paperProcess": [
+    "제목·초록 제출 마감 2027-01-11 (AoE)",
+    "논문·Pictorial 제출 마감 2027-01-18 (AoE)",
+    "채택 통보 2027-03-19",
+    "최종본·등록 마감 미공개"
+  ],
+  "sources": [
+    "https://dis.acm.org/2027/",
+    "https://dis.acm.org/2027/call-for-papers/"
+  ],
+  "tags": [
+    "HCI",
+    "웨어러블",
+    "국제"
+  ]
+}

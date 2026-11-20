@@ -1,0 +1,43 @@
+{
+  "acronym": "MLSys",
+  "fullname": "Conference on Machine Learning and Systems",
+  "kiise": "우수",
+  "bk21": null,
+  "excellentSources": [
+    {
+      "list": "kiise",
+      "url": "https://www.kiise.or.kr/TopConferences/data/SW분야우수학술대회목록_2024.pdf",
+      "document": "2024년 한국정보과학회 우수학술대회 (개편)목록",
+      "year": 2024,
+      "identity": "Conference on Machine Learning and Systems",
+      "row": "2024-A-098",
+      "page": 9
+    }
+  ],
+  "category": "국제-AI·비전",
+  "start": "2027-06-21",
+  "end": "2027-06-25",
+  "dates": "2027.06.21 – 2027.06.25",
+  "location": "Bellevue, WA, USA",
+  "registration": "미공개",
+  "website": "https://mlsys.org/",
+  "notes": "공식 목록 등재 확인. 등록·제출 마감은 미확인.",
+  "tags": [
+    "AI·학습",
+    "시스템·네트워크"
+  ],
+  "csrankings": null,
+  "scholarTop20": null,
+  "core": null,
+  "h5": null,
+  "acceptRate": null,
+  "repSources": [],
+  "repAsOf": null,
+  "sources": [
+    "https://mlsys.org/"
+  ],
+  "future": [],
+  "keynotes": [],
+  "program": [],
+  "paperProcess": []
+}
